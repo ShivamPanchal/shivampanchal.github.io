@@ -1,6 +1,6 @@
 # main text of home
 name: Shivam Panchal
-bio: Data Scientist | Consultant
+bio: Data Scientist | Consultant | Fitness Freak 
 
 # twitter summary info
 description: Shivam Panchal
@@ -8,12 +8,12 @@ description: Shivam Panchal
 # if it's an external image, update below for true
 # better with square images
 external-image: false
-#picture: assets/images/dan.jpg
+picture: assets/images/dan.jpg
 
 # If you want to include your resume, set to true
 # and specify source (external or local).
 resume: true
-resume-external: false
+resume-external: yes
 resume-url: https://docs.google.com/document/d/1LozU_1TaPyjSnK5k_SJ8pHqC-ydZ7QiHpeoxnwpk7NQ/edit?usp=sharing
 
 url: https://shivampanchal.github.io/
@@ -37,7 +37,7 @@ disqus:
 facebook: shivamchmp
 twitter: reach_shivam
 # google: mygoogle
-# instagram: myinstagram
+instagram: shivam_9423
 # pinterest: mypinterest
 linkedin: panchalshivam
 # youtube: myyoutube
@@ -58,7 +58,7 @@ authors:
         name: Shivam Panchal
         bio: Data Scientist | Consultant
         external-image: false
-        #picture: assets/images/dan.jpg
+        picture: assets/images/dan.jpg
         twitter: reach_shivam
 
 # do you want a larger site? change the option below
