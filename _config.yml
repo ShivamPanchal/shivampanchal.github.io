@@ -1,28 +1,28 @@
 # main text of home
-name: Dan Bennett
-bio: VLE Technical Consultant / Web Developer / Web Hosting / Music Producer / Community Manager / Caster
+name: Shivam Panchal
+bio: Data Scientist | Consultant
 
 # twitter summary info
-description: Dan Bennett
+description: Shivam Panchal
 
 # if it's an external image, update below for true
 # better with square images
 external-image: false
-picture: assets/images/dan.jpg
+#picture: assets/images/dan.jpg
 
 # If you want to include your resume, set to true
 # and specify source (external or local).
-resume: false
+resume: true
 resume-external: false
-resume-url: https://google.com/?q=my+resume
+resume-url: https://docs.google.com/document/d/1LozU_1TaPyjSnK5k_SJ8pHqC-ydZ7QiHpeoxnwpk7NQ/edit?usp=sharing
 
-url: https://www.danbennett.me
+url: https://shivampanchal.github.io/
 # your url: http://USERNAME.github.io
 
 permalink: /:title/
 
 # To enable google analytics, supply your token below
-analytics-google: 'UA-141510027-1'
+#analytics-google: 'UA-141510027-1'
 
 # To enable piwik tracking, supply your url & site ID below
 # analytics-piwik-url: 'piwik.my-host.com'
@@ -34,32 +34,32 @@ disqus:
   categories: [] # only show disqus for posts that have these categories
 
 # if you don't have any of social below, comment the line
-facebook: danbennett89
-twitter: danbennett
+facebook: shivamchmp
+twitter: reach_shivam
 # google: mygoogle
 # instagram: myinstagram
 # pinterest: mypinterest
-linkedin: danbennettuk
+linkedin: panchalshivam
 # youtube: myyoutube
-spotify: ravenatic
-github: danbennettuk
+#spotify: ravenatic
+github: shivampanchal
 # gitlab: mygitlab
 # lastfm: mylastfm
 # stackoverflow: 7044681/mystackoverflow
 # quora: userquora
-reddit: danbennett
+#reddit: danbennett
 # medium: medium
 # vimeo: myvimeo
 # lanyrd: mylanyrd
-email: dan@danbennett.me
+email: shivam.panchal@mail.com
 
 authors:
-    Dan Bennett:
-        name: Dan Bennett
-        bio: VLE Technical Consultant / Web Developer / Web Hosting / Music Producer / Community Manager / Caster
+    Shivam Panchal:
+        name: Shivam Panchal
+        bio: Data Scientist | Consultant
         external-image: false
-        picture: assets/images/dan.jpg
-        twitter: danbennett
+        #picture: assets/images/dan.jpg
+        twitter: reach_shivam
 
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal
