@@ -4,14 +4,15 @@ layout: page
 ---
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
-Hi, I'm Dan Bennett!
+Hi, I'm Shivam!
 
-Currently I am classed as a VLE Technical Consultant & Director of [PriorsVLE](https://www.priorsvle.com), providing technical support services for Moodle, Totara and Mahara administrators!
+Bachelor of Technology from Harcourt Butler Technological Institute, Kanpur
 
-Outside of work, I am a Music Producer. Focusing mostly on UK Hardcore, but also creating strange sounds within the Dance and Progressive range...
-You can find some sounds I've done on [Soundcloud](https://soundcloud.com/danbennettuk).
+I am a Data Science Consultant with three years of experience in Data Analysis & Visualization, Statistics, Machine Learning and Deep Learning, Computer Vision and Natural Language Processing.
 
-I'm also a past Radio Presenter. It's something I really enjoyed and really want to get into again. So - if you work at a radio station... Hi? ;-)
+I have worked across various domains such as Banking and Finance, Healthcare and Telecom.
+
+I love to <mark>code</mark> and <mark>travel</mark>.
 
 ### Contact me
 
@@ -21,3 +22,4 @@ This is rather brief and I need to sit down and fully update this. But in the me
 
 [Twitter]: http://twitter.com/danbennett
 [E-Mail]: mailto:dan@danbennett.me
+[Instagram]: instagram.com/shivam_9423
