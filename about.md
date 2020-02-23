@@ -76,7 +76,8 @@ Jun 2017 - Mar 2018<br />
 
 ## Skills
 ### Technical Skills
-
+![Tech Skills](techskill1.png)
+![](techskill2.png)
 * **Databases**: SQL Server, MySQL, SQLite, PostgreSQL, MongoDB 
 * **Programming**: SQL, Python, Colab, Jupyter Notebook, Django, R, HTML
 * **Operating Systems**: Windows, Linux
@@ -85,6 +86,7 @@ Jun 2017 - Mar 2018<br />
 * **Areas of Expertise**: Data Cleaning and Munging, Database Management and Warehousing, Statistical Analysis, Ad-hoc Reporting, Data Analysis, Data Visualization, Business Intelligence, Machine Learning and Deep Learning, Transfer Learning
 
 ### Soft Skills
+![](softskills.png)
 * Team Collaboration 
 * Critical Thinking
 * Result Oriented
