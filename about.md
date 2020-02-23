@@ -193,7 +193,7 @@ Check Projects [here]()
 ## Recommendations
 ![LinkedIn Recommendations](reviews.png)
 
-## Freelance Clients's Reviews and Profile
+### Freelance Clients's Reviews and Profile
 ![](rev.png)
 ![](rev1.png)
 ![](rev2.png)
