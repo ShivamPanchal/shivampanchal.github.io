@@ -1,6 +1,7 @@
 # Shivam Panchal
 
 <p align="center">
+
 **Data Scientist, Engineer and amateur Philosopher**
 
 [Email](shivam.hbti2017@gmail.com)
@@ -8,10 +9,10 @@
 [Twitter](http://twitter.com/reach_shivam)
 [GitHub](http://github.com/shivampanchal)
 [Website](https://www.shivampanchal.github.io)
+<p align="justify">
 
 ---
 
-<p align="justify">
 Hi there, **I am Shivam**
 
 I am a **Bachelor of Technology** from *Harcourt Butler Technological Institute*, Kanpur.
