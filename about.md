@@ -212,11 +212,11 @@ Last updated: Feb 2020 -->
 
 ## Contact me
 
-Come drop an E-Mail .
+Please drop an E-Mail .
 
 [Email](mailto:shivam.panchal@mail.com) 
 [LinkedIn](http://linkedin.com/panchalshivam) 
 [Twitter](http://twitter.com/reach_shivam) 
 [GitHub](http://github.com/shivampanchal) 
 [Website](https://www.shivampanchal.github.io) 
-**[+919648873304]**
+[+919648873304]
