@@ -19,6 +19,8 @@ I have worked across various domains such as *Banking and Finance, Healthcare an
 
 I have a profound interest in Data Science, Artificial Intelligence and Internet of Things. I love to code and travel. I love all breeds of dog. </p>
 
+---
+
 
 
 
@@ -74,7 +76,7 @@ Data Science Analyst<br />
 - Data Visualizations for Data Analytics across all verticals using Tableau
 - Learning Module Development for Deep Learning (Keras+Tensorflow)
 
-
+---
 
 
 ## Skills
@@ -117,6 +119,8 @@ Data Science Analyst<br />
 </p>
 
 
+---
+
 
 ## Education
 
@@ -133,6 +137,9 @@ Senior Secondary School<br />
 `2010-12`<br />
 - Physics and Mathematics, SOF, NSS, Football.
 
+
+
+
 ## Publications
 
 __Careers after 10th&12th__<br />
@@ -143,14 +150,18 @@ __Careers after 10th&12th__<br />
 - E-book
 </p>
 
-## Projects
 
+
+
+## Projects
+Check Projects [here]()
 
 
 
 ## Certifications
 
-__Data Science Specialization__ `Coursera (John Hopkins University)`
+__Data Science Specialization__ 
+`Coursera (John Hopkins University)`
 The specialization consists of nine courses. 
 - Data Scientist Tool Box
 - R Programming 
@@ -161,39 +172,34 @@ The specialization consists of nine courses.
 - Regression Models
 - Practical Machine Learning
 - Developing Data Products
-
 [View Certificates](https://www.dropbox.com/sh/bd6bp71w3elzqas/AADIRfPrD7xQSZbxxVJekakma?dl=0)
 
----
-__Big Data Specialization__ `Coursera (University of San Diego)`
+__Big Data Specialization__ 
+`Coursera (University of San Diego)`
 - Introduction to Big Data, Hadoop and its Ecosystem (HDFS and Map Reduce)
 - Apache Spark and its components
-- Graph Analytics with Neo4j and handling of data in KNIME and Splunk
-- 
+- Graph Analytics with Neo4j and handling of data in KNIME and Splunk 
 [View Certificate](https://www.dropbox.com/sh/bd6bp71w3elzqas/AADIRfPrD7xQSZbxxVJekakma?dl=0)
 
----
-__Machine Learning Specialization__ `Coursera (University of Washington)`
+__Machine Learning Specialization__ 
+`Coursera (University of Washington)`
 - Introduction to Machine Learning
 - Regression, Classification and Clustering
-
 [View Certificate](https://www.dropbox.com/sh/bd6bp71w3elzqas/AADIRfPrD7xQSZbxxVJekakma?dl=0)
 
----
-__Data Analysis with R__ `Udacity`
+__Data Analysis with R__ 
+`Udacity`
 The course focused on the understanding of the various data preparation and
 Model Building techniques in R.
-
 [View Certificate](https://www.dropbox.com/sh/bd6bp71w3elzqas/AADIRfPrD7xQSZbxxVJekakma?dl=0)
 
-
----
-__Programming in Python and Data Analysis__`Coursera`
+__Programming in Python and Data Analysis__
+`Coursera`
 - Data Cleaning, EDA and Model Building and Evaluation.
 - Data Analysis in Python, using various libraries.
 - Numpy, Matplotlib, Seaborn, sklearn, Caret etc.
-
 [View Certificate](https://www.dropbox.com/sh/bd6bp71w3elzqas/AADIRfPrD7xQSZbxxVJekakma?dl=0)
+
 
 ---
 
