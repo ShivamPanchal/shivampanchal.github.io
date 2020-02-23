@@ -1,7 +1,11 @@
 # Shivam Panchal
+---
+
 **Data Scientist, Engineer and amateur Philosopher**
+---
 
 [Email](mailto:shivam.panchal@mail.com) [LinkedIn](http://linkedin.com/panchalshivam) [Twitter](http://twitter.com/reach_shivam) [GitHub](http://github.com/shivampanchal) [Website](https://www.shivampanchal.github.io)
+---
 
 ---
 
@@ -9,7 +13,7 @@
 
 Hi there, **I am Shivam**
 
-I am a **Bachelor of Technology** from *Harcourt Butler Technological Institute*, Kanpur.
+I am a **Bachelor of Technology** from ***Harcourt Butler Technological Institute***, Kanpur.
 
 <p align="justify"> 
 I have been working as a Data Science Consultant from past three years in the field of Data Analysis & Data-Driven Decision Making, Statistical Analysis Techniques, Machine Learning and Deep Learning Modelling, Computer Vision and Natural Language Processing.</p>
@@ -98,7 +102,6 @@ Data Science Analyst<br />
 
 ### Other Background Information
 
-<p align="justify">
 - Experienced in building end-to-end pipelines for Data manipulation, Modelling, Model selection and Prediction
 - Knowledge of a variety of Data Visualizations in Matplotlib, Plotly, Dash, Tableau and R Shiny, Plotly, QlikSense.
 - Statistical Analysis
@@ -116,7 +119,6 @@ Data Science Analyst<br />
 - Natural Language Processing and Text Analysis, Sentimental Analysis, Aspect Based, POS Tagging, Named Entity Recognition, Advanced text Classification using Deep Learning methods, Chatbots and DialogueFlow
 - Additional Tools - RapidMiner, WEKA, KNIME, TRIFECTA, Qlik, SASMiner, Excel, Tableau, Splunk, GIT, AWS, GCP
 - Mainstream Langiage - Python, R
-</p>
 
 
 ---
@@ -132,36 +134,33 @@ Bachelor of Technology <br />
 - Apart from this, I was also engaged in organizing functions, took part in event management, Seminar Management, Resource Generation, Marketing, Debate Quiz and Paper Presentation.
 </p>
 
+
+
 __Silver Bells Public School__ <br />
 Senior Secondary School<br />
 `2010-12`<br />
 - Physics and Mathematics, SOF, NSS, Football.
 
 
-
+---
 
 ## Publications
 
 __Careers after 10th&12th__<br />
 `July 2014`<br />
 <p align="justify">
-  The goal of this book is to guide the students in choosing the right career after school and providing a lot of career options from which they can choose one, of their own interest. In addition to empowering and guiding the student towards the right career, this book is also dedicated to providing detailed information on various career options, courses, and colleges in India which help the students know a career in details and make an informed choice.
+  The goal of this book is to guide the students in choosing the right career after school and providing a lot of career options from which they can choose one, of their own interest. In addition to empowering and guiding the student towards the right career, this book is also dedicated to providing detailed information on various career options, courses, and colleges in India which help the students know a career in details and make an informed choice.<br />
 
-- E-book
+- [Download E-book]()
 </p>
 
 
-
-
-## Projects
-Check Projects [here]()
-
-
+---
 
 ## Certifications
 
-__Data Science Specialization__ 
-`Coursera (John Hopkins University)`
+__Data Science Specialization__<br />
+`Coursera (John Hopkins University)`<br />
 The specialization consists of nine courses. 
 - Data Scientist Tool Box
 - R Programming 
@@ -171,34 +170,40 @@ The specialization consists of nine courses.
 - Reproducible Research
 - Regression Models
 - Practical Machine Learning
-- Developing Data Products
+- Developing Data Products<br />
 [View Certificates](https://www.dropbox.com/sh/bd6bp71w3elzqas/AADIRfPrD7xQSZbxxVJekakma?dl=0)
 
-__Big Data Specialization__ 
-`Coursera (University of San Diego)`
-- Introduction to Big Data, Hadoop and its Ecosystem (HDFS and Map Reduce)
-- Apache Spark and its components
-- Graph Analytics with Neo4j and handling of data in KNIME and Splunk 
+__Big Data Specialization__<br />
+`Coursera (University of San Diego)`<br />
+- Introduction to Big Data, Hadoop and its Ecosystem (HDFS and Map Reduce)<br />
+- Apache Spark and its components<br />
+- Graph Analytics with Neo4j and handling of data in KNIME and Splunk<br />
 [View Certificate](https://www.dropbox.com/sh/bd6bp71w3elzqas/AADIRfPrD7xQSZbxxVJekakma?dl=0)
 
-__Machine Learning Specialization__ 
-`Coursera (University of Washington)`
-- Introduction to Machine Learning
-- Regression, Classification and Clustering
+__Machine Learning Specialization__ <br />
+`Coursera (University of Washington)`<br />
+- Introduction to Machine Learning<br />
+- Regression, Classification and Clustering<br />
 [View Certificate](https://www.dropbox.com/sh/bd6bp71w3elzqas/AADIRfPrD7xQSZbxxVJekakma?dl=0)
 
-__Data Analysis with R__ 
-`Udacity`
-The course focused on the understanding of the various data preparation and
-Model Building techniques in R.
+__Data Analysis with R__<br />
+`Udacity`<br />
+The course focused on the understanding of the various data preparation and Model Building techniques in R.<br />
 [View Certificate](https://www.dropbox.com/sh/bd6bp71w3elzqas/AADIRfPrD7xQSZbxxVJekakma?dl=0)
 
-__Programming in Python and Data Analysis__
-`Coursera`
-- Data Cleaning, EDA and Model Building and Evaluation.
-- Data Analysis in Python, using various libraries.
-- Numpy, Matplotlib, Seaborn, sklearn, Caret etc.
+__Programming in Python and Data Analysis__<br />
+`Coursera`<br />
+- Data Cleaning, EDA and Model Building and Evaluation.<br />
+- Data Analysis in Python, using various libraries.<br />
+- Numpy, Matplotlib, Seaborn, sklearn, Caret etc.<br />
 [View Certificate](https://www.dropbox.com/sh/bd6bp71w3elzqas/AADIRfPrD7xQSZbxxVJekakma?dl=0)
+
+
+----
+
+## Projects
+Check Projects [here]()
+
 
 
 ---
@@ -211,8 +216,9 @@ Available on request.
 
 Last updated: Feb 2020 -->
 
+---
 
-### Contact me
+## Contact me
 
 This is rather brief, want to know more about me, check my resume here. And in the mean time, come say `Hello` on [Twitter] or by [E-Mail].
 
