@@ -1,6 +1,9 @@
+<p align="center">
+
+
 # Shivam Panchal
 
-<p align="center">
+
 
 **Data Scientist, Engineer and amateur Philosopher**
 
