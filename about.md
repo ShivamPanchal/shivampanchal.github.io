@@ -1,22 +1,21 @@
 # Shivam Panchal
 **Data Scientist, Engineer and amateur Philosopher**
 
-[Email](shivam.hbti2017@gmail.com)
-[LinkedIn](http://linkedin.com/panchalshivam)
-[Twitter](http://twitter.com/reach_shivam)
-[GitHub](http://github.com/shivampanchal)
-[Website](https://www.shivampanchal.github.io)
+[Email](mailto:shivam.panchal@mail.com) [LinkedIn](http://linkedin.com/panchalshivam) [Twitter](http://twitter.com/reach_shivam) [GitHub](http://github.com/shivampanchal) [Website](https://www.shivampanchal.github.io)
 
+---
 
-<p align="justify">
 Hi there, **I am Shivam**
 I am a **Bachelor of Technology** from *Harcourt Butler Technological Institute*, Kanpur.
 
-I have been working as a Data Science Consultant from past three years in the field of Data Analysis & Data-Driven Decision Making, Statistical Analysis Techniques, Machine Learning and Deep Learning Modelling, Computer Vision and Natural Language Processing.
+<p align="justify"> 
+I have been working as a Data Science Consultant from past three years in the field of 
+Data Analysis & Data-Driven Decision Making, Statistical Analysis Techniques, Machine Learning and Deep Learning Modelling, Computer Vision and Natural Language Processing.</p>
 
-I have worked across various domains such as *Banking and Finance, Healthcare and Telecom*. Information and Knowledge is power in business, and data is the fuel that creates this power. I help my clients to harness the power of data into thier organizations and  
-building solutions to help them grow using to extract knowledge from data and leveraging this data to take major decisions is a key strategic practice for any business problem. I have a profound interest in Data Science, Artificial Intelligence and Internet of Things. I love to code and travel. I love all breeds of dog.
-</p>
+<p align="justify"> 
+I have worked across various domains such as *Banking and Finance, Healthcare and Telecom*. Information and Knowledge is power in business, and data is the fuel that creates this power. I help my clients to grow by harnessing the power of data in their organizations and building products and solutions by extracting knowledge from their data and leveraging this data to take major decisions to a business problem.  
+
+I have a profound interest in Data Science, Artificial Intelligence and Internet of Things. I love to code and travel. I love all breeds of dog. </p>
 
 ## Experience
 
@@ -129,12 +128,11 @@ Senior Secondary School<br />
 ## Publications
 
 __Careers after 10th&12th__<br />
-`Jun 2013 – Present`<br />
+`July 2014`<br />
 <p align="justify">
-  
-The goal of this book is to guide the students in choosing the right career after school and providing a lot of career options from which they can choose one, of their own interest. In addition to empowering and guiding the student towards the right career, this book is also dedicated to providing detailed information on various career options, courses, and colleges in India which help the students know a career in details and make an informed choice.
-Download e-book
+  The goal of this book is to guide the students in choosing the right career after school and providing a lot of career options from which they can choose one, of their own interest. In addition to empowering and guiding the student towards the right career, this book is also dedicated to providing detailed information on various career options, courses, and colleges in India which help the students know a career in details and make an informed choice.
 
+- E-book
 </p>
 
 ## Projects
@@ -144,40 +142,56 @@ Download e-book
 
 ## Certifications
 
-__Data Science Specialization__
-`Coursera (John Hopkins University)`
-The specialization consists of nine courses.
-R Programming, Getting and Cleaning Data, Exploratory Data Analysis,
-Statistical Inference, Reproducible Research, Regression Models,
-Practical Machine Learning Developing Data Products
-[Certificate](https://www.dropbox.com/sh/bd6bp71w3elzqas/AADIRfPrD7xQSZbxxVJekakma?dl=0)
+__Data Science Specialization__ `Coursera (John Hopkins University)`
+The specialization consists of nine courses. 
+- Data Scientist Tool Box
+- R Programming 
+- Getting and Cleaning Data
+- Exploratory Data Analysis
+- Statistical Inference
+- Reproducible Research
+- Regression Models
+- Practical Machine Learning
+- Developing Data Products
 
+[View Certificates](https://www.dropbox.com/sh/bd6bp71w3elzqas/AADIRfPrD7xQSZbxxVJekakma?dl=0)
 
-__Big Data Specialization__
-`Coursera (UC San Diego)`
+---
+__Big Data Specialization__ `Coursera (University of San Diego)`
 - Introduction to Big Data, Hadoop and its Ecosystem (HDFS and Map Reduce)
 - Apache Spark and its components
 - Graph Analytics with Neo4j and handling of data in KNIME and Splunk
+- 
+[View Certificate](https://www.dropbox.com/sh/bd6bp71w3elzqas/AADIRfPrD7xQSZbxxVJekakma?dl=0)
 
-__Machine Learning Specialization__
-`Coursera (U of W)`
+---
+__Machine Learning Specialization__ `Coursera (University of Washington)`
 - Introduction to Machine Learning
 - Regression, Classification and Clustering
 
-__Data Analysis with R__
-`Udacity`
+[View Certificate](https://www.dropbox.com/sh/bd6bp71w3elzqas/AADIRfPrD7xQSZbxxVJekakma?dl=0)
+
+---
+__Data Analysis with R__ `Udacity`
 The course focused on the understanding of the various data preparation and
 Model Building techniques in R.
 
-__Programming in Python and Data Analysis__
-`Coursera`
+[View Certificate](https://www.dropbox.com/sh/bd6bp71w3elzqas/AADIRfPrD7xQSZbxxVJekakma?dl=0)
+
+
+---
+__Programming in Python and Data Analysis__`Coursera`
 - Data Cleaning, EDA and Model Building and Evaluation.
 - Data Analysis in Python, using various libraries.
 - Numpy, Matplotlib, Seaborn, sklearn, Caret etc.
 
+[View Certificate](https://www.dropbox.com/sh/bd6bp71w3elzqas/AADIRfPrD7xQSZbxxVJekakma?dl=0)
+
+---
+
 ## References
 
-Available on request.
+Available on request. 
 
 <!-- ### Footer
 
