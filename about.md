@@ -13,10 +13,9 @@
 [GitHub](http://github.com/shivampanchal)
 [Website](https://www.shivampanchal.github.io)
 
-</p>
 ---
 
-
+<p align="justify">
 Hi there, **I am Shivam**
 
 I am a **Bachelor of Technology** from *Harcourt Butler Technological Institute*, Kanpur.
@@ -25,6 +24,7 @@ I have been working as a Data Science Consultant from past three years in the fi
 
 I have worked across various domains such as *Banking and Finance, Healthcare and Telecom*. Information and Knowledge is power in business, and data is the fuel that creates this power. I help my clients to harness the power of data into thier organizations and  
 building solutions to help them grow using to extract knowledge from data and leveraging this data to take major decisions is a key strategic practice for any business problem. I have a profound interest in Data Science, Artificial Intelligence and Internet of Things. I love to code and travel. I love all breeds of dogs.
+</p>
 
 ## Experience
 
@@ -32,6 +32,7 @@ __Freelance Consultant__ <br />
 Data Scientist<br />
 `July 2018 - November 2019` <br />
 
+<p align="justify">
 I worked across various domains such as Banking, Finance, Healthcare and Telecom, working with various Start-ups and Individual Clients
 - Involved in gathering requirements while uncovering and defining multiple dimensions of the Project.
 - Extracting data from one or more sources for analysis.
@@ -40,6 +41,7 @@ I worked across various domains such as Banking, Finance, Healthcare and Telecom
 - Implementing Machine Learning and Deep Learning algorithms for supervised and unsupervised learning.
 - Build Machine learning and Deep Learning pipelines with end-to-end ETL processes with SQL/NoSQL databases.
 - Provide consulting and advise clients on Advance Machine Learning and Deep learning solution implementation.
+</p>
 
 __GLS__<br />
 Data Scientist<br />
@@ -75,12 +77,14 @@ Data Science Analyst<br />
 ## Skills
 
 ### Technical Skills
+<p align="justify">
 * **Databases**: SQL Server, MySQL, SQLite, PostgreSQL, MongoDB. 
 * **Programming**: SQL, Python, Colab, Jupyter Notebook, Django, R, HTML
 * **Operating Systems**: Windows, Linux. 
 * **BI Tools**: Tableau, Power BI, Tableau, Qli, Google Data Studio 
 * **Technologies**: OpenCV, TensorFlow, Theano, Keras, Scikit, Numpy, Pandas, YOLO, CUDA, Matplotlib, Plotly, GIT, AWS, GCP.
 * **Areas of Expertise**: Data Cleaning and Munging, Database Management and Warehousing, Statistical Analysis, Ad-hoc Reporting, Data Analysis, Data Visualization, Business Intelligence, Machine Learning and Deep Learning, Transfer Learning
+</p>
 
 ### Soft Skills
 * Team Collaboration 
@@ -90,6 +94,7 @@ Data Science Analyst<br />
 * Sticking to Deadlines
 
 ### Other Background Information
+<p align="justify">
 - Experienced in building end-to-end pipelines for Data manipulation, Modelling, Model selection and Prediction
 - Knowledge of a variety of Data Visualizations in Matplotlib, Plotly, Dash, Tableau and R Shiny, Plotly, QlikSense.
 - Statistical Analysis
@@ -107,14 +112,18 @@ Data Science Analyst<br />
 - Natural Language Processing and Text Analysis, Sentimental Analysis, Aspect Based, POS Tagging, Named Entity Recognition, Advanced text Classification using Deep Learning methods, Chatbots and DialogueFlow
 - Additional Tools - RapidMiner, WEKA, KNIME, TRIFECTA, Qlik, SASMiner, Excel, Tableau, Splunk, GIT, AWS, GCP
 - Mainstream Langiage - Python, R
+</p>
+
 
 ## Education
 
 __Harcourt Butler Technical Institute__ <br />
 Bachelor of Technology <br />
 `2013-17`<br />
+<p align="justify">
 - I built my interest in analytics and machine learning in the first two years of college, then in last two years, I did code, did bunch of courses & obtained certificates, and excelled in in this field. 
 - Apart from this, I was also engaged in organizing functions, took part in event management, Seminar Management, Resource Generation, Marketing, Debate Quiz and Paper Presentation.
+</p>
 
 __Silver Bells Public School__ <br />
 Senior Secondary School<br />
@@ -125,8 +134,10 @@ Senior Secondary School<br />
 
 __Careers after 10th&12th__<br />
 `Jun 2013 – Present`<br />
+<p align="justify">
 The goal of this book is to guide the students in choosing the right career after school and providing a lot of career options from which they can choose one, of their own interest. In addition to empowering and guiding the student towards the right career, this book is also dedicated to providing detailed information on various career options, courses, and colleges in India which help the students know a career in details and make an informed choice.
 Download e-book
+</p>
 
 ## Projects
 
