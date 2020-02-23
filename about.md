@@ -1,8 +1,6 @@
 # Shivam Panchal
 
-
 <p align="center">
-
 **Data Scientist, Engineer and amateur Philosopher**
 
 [Email](shivam.hbti2017@gmail.com)
