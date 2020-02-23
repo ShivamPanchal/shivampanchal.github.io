@@ -80,9 +80,9 @@ Jun 2017 - Mar 2018<br />
 * **Databases**: SQL Server, MySQL, SQLite, PostgreSQL, MongoDB 
 * **Programming**: SQL, Python, Colab, Jupyter Notebook, Django, R, HTML
 * **Operating Systems**: Windows, Linux
-* **BI Tools**: Tableau, Power BI, Tableau, Qli, Google Data Studio 
+* **BI Tools**: Tableau, Power BI, Qlik, Google Data Studio 
 * **Technologies**: OpenCV, TensorFlow, Theano, Keras, Scikit, Numpy, Pandas, YOLO, CUDA, Matplotlib, Plotly, GIT, AWS, GCP
-* **Areas of Expertise**: <p align="justify"> Data Cleaning and Munging, Database Management and Warehousing, Statistical Analysis, Ad-hoc Reporting, Data Analysis, Data Visualization, Business Intelligence, Machine Learning and Deep Learning, Transfer Learning </p>
+* **Areas of Expertise**: <p align="justify"> Data Cleaning and Munging, Database Management and Warehousing, Statistical Analysis, Ad-hoc Reporting, Data Analysis, Data Visualization, Business Intelligence, Machine Learning and Deep Learning, Transfer Learning
 
 ### Soft Skills
 * Team Collaboration 
