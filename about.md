@@ -16,7 +16,7 @@ I have worked across various domains such as Banking and Finance, Healthcare and
 
 I have a profound interest in Data Science, Artificial Intelligence and Internet of Things. I love to code and travel. I love all breeds of dog. </p>
 
-[Email](mailto:shivam.panchal@mail.com) [LinkedIn](http://linkedin.com/panchalshivam)  [Twitter](http://twitter.com/reach_shivam) [GitHub](http://github.com/shivampanchal)
+[Email](mailto:shivam.panchal@mail.com) [LinkedIn](http://linkedin.com/in/panchalshivam)  [Twitter](http://twitter.com/reach_shivam) [GitHub](http://github.com/shivampanchal)
 
 
 ---
