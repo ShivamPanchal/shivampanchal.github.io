@@ -1,7 +1,6 @@
-<p
 # Shivam Panchal
- align="center">
-Data Scientist, Engineer and amateur Philosopher
+<p align="center">
+**Data Scientist, Engineer and amateur Philosopher**
 [Email](shivam.hbti2017@gmail.com)
 [LinkedIn](http://linkedin.com/panchalshivam)
 [Twitter](http://twitter.com/reach_shivam)
@@ -11,7 +10,7 @@ Data Scientist, Engineer and amateur Philosopher
 ---
 
 
-Hi there, **I'm Shivam**!
+Hi there, **I am Shivam**
 
 I am a **Bachelor of Technology** from *Harcourt Butler Technological Institute*, Kanpur.
 
@@ -66,9 +65,9 @@ Data Science Analyst<br />
 - Data Visualizations for Data Analytics across all verticals using Tableau
 - Learning Module Development for Deep Learning (Keras+Tensorflow)
 
+## Skills
 
-## Technical Skills
-
+### Technical Skills
 * **Databases**: SQL Server, MySQL, SQLite, PostgreSQL, MongoDB. 
 * **Programming**: SQL, Python, Colab, Jupyter Notebook, Django, R, HTML
 * **Operating Systems**: Windows, Linux. 
@@ -76,17 +75,14 @@ Data Science Analyst<br />
 * **Technologies**: OpenCV, TensorFlow, Theano, Keras, Scikit, Numpy, Pandas, YOLO, CUDA, Matplotlib, Plotly, GIT, AWS, GCP.
 * **Areas of Expertise**: Data Cleaning and Munging, Database Management and Warehousing, Statistical Analysis, Ad-hoc Reporting, Data Analysis, Data Visualization, Business Intelligence, Machine Learning and Deep Learning, Transfer Learning
 
-
-## Soft Skills
-
+### Soft Skills
 * Team Collaboration 
 * Critical Thinking
 * Result Oriented
 * Curiosity
 * Sticking to Deadlines
 
-
-## Other Background Information
+### Other Background Information
 - Experienced in building end-to-end pipelines for Data manipulation, Modelling, Model selection and Prediction
 - Knowledge of a variety of Data Visualizations in Matplotlib, Plotly, Dash, Tableau and R Shiny, Plotly, QlikSense.
 - Statistical Analysis
@@ -110,15 +106,12 @@ Data Science Analyst<br />
 __Harcourt Butler Technical Institute__ <br />
 Bachelor of Technology <br />
 `2013-17`<br />
-
 - I built my interest in analytics and machine learning in the first two years of college, then in last two years, I did code, did bunch of courses & obtained certificates, and excelled in in this field. 
 - Apart from this, I was also engaged in organizing functions, took part in event management, Seminar Management, Resource Generation, Marketing, Debate Quiz and Paper Presentation.
-
 
 __Silver Bells Public School__ <br />
 Senior Secondary School<br />
 `2010-12`<br />
-
 - Physics and Mathematics, SOF, NSS, Football.
 
 ## Publications
@@ -134,110 +127,37 @@ Download e-book
 
 
 ## Certifications
-| | |
-| :------------- | :----------: |
-|  Data Science Specialization
-Coursera (John Hopkins University) | The specialization consists of nine courses; Major courses were-
--R Programming, -Getting and Cleaning Data, -Exploratory Data Analysis,
--Statistical Inference, -Reproducible Research, - Regression Models,
--Practical Machine Learning –Developing Data Products   |
-| Big Data (Hadoop and its Ecosystem)
-Coursera (UC San Diego)  | Using Cloudera’s VM Quick start.
-Introduction to Big Data
-Hadoop and its Ecosystem (HDFS and Map Reduce)
-(Intro to Apache Spark- and its component)
-Graph Analytics with Neo4j and handling of data in KNIME and Splunk |
+
+__Data Science Specialization__
+`Coursera (John Hopkins University)`
+The specialization consists of nine courses.
+R Programming, Getting and Cleaning Data, Exploratory Data Analysis,
+Statistical Inference, Reproducible Research, Regression Models,
+Practical Machine Learning Developing Data Products
+[Certificate](https://www.dropbox.com/sh/bd6bp71w3elzqas/AADIRfPrD7xQSZbxxVJekakma?dl=0)
 
 
+__Big Data Specialization__
+`Coursera (UC San Diego)`
+- Introduction to Big Data, Hadoop and its Ecosystem (HDFS and Map Reduce)
+- Apache Spark and its components
+- Graph Analytics with Neo4j and handling of data in KNIME and Splunk
 
+__Machine Learning Specialization__
+`Coursera (U of W)`
+- Introduction to Machine Learning
+- Regression, Classification and Clustering
 
-CERTIFICATIONS
-
-Data Science Specialization
-Coursera (John Hopkins University)
-
-The specialization consists of nine courses; Major courses were-
--R Programming, -Getting and Cleaning Data, -Exploratory Data Analysis,
--Statistical Inference, -Reproducible Research, - Regression Models,
--Practical Machine Learning –Developing Data Products
-
-Data Analysis with R
-Udacity
+__Data Analysis with R__
+`Udacity`
 The course focused on the understanding of the various data preparation and
 Model Building techniques in R.
 
-Data Analysis using Excel
-Coursera
-
-Statistical Analysis of small datasets in Excel, Data visualization and Plotting,
-Pivot Tables etc.
-
-Big Data (Hadoop and its Ecosystem)
-Coursera (UC San Diego)
-
-Using Cloudera’s VM Quick start.
-Introduction to Big Data
-Hadoop and its Ecosystem (HDFS and Map Reduce)
-(Intro to Apache Spark- and its component)
-Graph Analytics with Neo4j and handling of data in KNIME and Splunk
-
-Machine Learning
-Coursera (U of W)
-
-Introduction to Machine Learning
-Regression, Classification and Clustering
-
-Programming in Python and Data
-Analysis
-Data Cleaning, EDA and Model Building and Evaluation.
-Data Analysis in Python, using various libraries.
-Numpy, Matplotlib, Seaborn, sklearn, Caret etc.
-Data Science Specialization
-Coursera (John Hopkins University)
-
-The specialization consists of nine courses; Major courses were-
--R Programming, -Getting and Cleaning Data, -Exploratory Data Analysis,
--Statistical Inference, -Reproducible Research, - Regression Models,
--Practical Machine Learning –Developing Data Products
-
-Data Analysis with R
-Udacity
-The course focused on the understanding of the various data preparation and
-Model Building techniques in R.
-
-Data Analysis using Excel
-Coursera
-
-Statistical Analysis of small datasets in Excel, Data visualization and Plotting,
-Pivot Tables etc.
-
-Big Data (Hadoop and its Ecosystem)
-Coursera (UC San Diego)
-
-Using Cloudera’s VM Quick start.
-Introduction to Big Data
-Hadoop and its Ecosystem (HDFS and Map Reduce)
-(Intro to Apache Spark- and its component)
-Graph Analytics with Neo4j and handling of data in KNIME and Splunk
-
-Machine Learning
-Coursera (U of W)
-
-Introduction to Machine Learning
-Regression, Classification and Clustering
-
-Programming in Python and Data
-Analysis
-Data Cleaning, EDA and Model Building and Evaluation.
-Data Analysis in Python, using various libraries.
-Numpy, Matplotlib, Seaborn, sklearn, Caret etc.
-
-
-
-
-
-
-
+__Programming in Python and Data Analysis__
+`Coursera`
+- Data Cleaning, EDA and Model Building and Evaluation.
+- Data Analysis in Python, using various libraries.
+- Numpy, Matplotlib, Seaborn, sklearn, Caret etc.
 
 ## References
 
@@ -252,5 +172,5 @@ Last updated: Feb 2020 -->
 
 This is rather brief, want to know more about me, check my resume here. And in the mean time, come say `Hello` on [Twitter] or by [E-Mail].
 
-[Twitter]: http://twitter.com/danbennett
-[E-Mail]: mailto:dan@danbennett.me
+[Twitter]: http://twitter.com/reach_shivam
+[E-Mail]: mailto:shivam.panchal@mail.com
