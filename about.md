@@ -199,6 +199,8 @@ Check Projects [here]()
 ![](rev1.png)
 ![](rev2.png)
 
+Want to Hire me for your project or view my full Freelancer Portfolio, please drop me an email.
+
 ---
 
 ## References
