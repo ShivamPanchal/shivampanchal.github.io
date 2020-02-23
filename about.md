@@ -1,6 +1,6 @@
 ---
 title: About
-layout: page
+layout: cv
 # Shivam Panchal
 Data Scientist, Engineer and amateur Philosopher
 
