@@ -12,10 +12,13 @@ I am a **Bachelor of Technology** from ***Harcourt Butler Technological Institut
 I have been working as a Data Science Consultant from past three years in the field of Data Analysis & Data-Driven Decision Making, Statistical Analysis Techniques, Machine Learning and Deep Learning Modelling, Computer Vision and Natural Language Processing.</p>
 
 <p align="justify"> 
-I have worked across various domains such as *Banking and Finance, Healthcare and Telecom*. Information and Knowledge is power in business, and data is the fuel that creates this power. I help my clients to grow by harnessing the power of data in their organizations and building products and solutions by extracting knowledge from their data and leveraging this data to take major decisions to a business problem.  
+I have worked across various domains such as Banking and Finance, Healthcare and Telecom. Information and Knowledge is power in business, and data is the fuel that creates this power. I help my clients to grow by harnessing the power of data in their organizations and building products and solutions by extracting knowledge from their data and leveraging this data to take major decisions to a business problem.  
 
 I have a profound interest in Data Science, Artificial Intelligence and Internet of Things. I love to code and travel. I love all breeds of dog. </p>
 
+<p align="center"> 
+
+[Email](mailto:shivam.panchal@mail.com)  [LinkedIn](http://linkedin.com/panchalshivam)  [Twitter](http://twitter.com/reach_shivam) [GitHub](http://github.com/shivampanchal) </p>
 ---
 
 
@@ -154,7 +157,7 @@ __Careers after 10th&12th__<br />
 
 __Data Science Specialization__<br />
 `Coursera (John Hopkins University)`<br />
-[View Certificates](https://www.dropbox.com/sh/bd6bp71w3elzqas/AADIRfPrD7xQSZbxxVJekakma?dl=0)
+[View Certificates](https://www.dropbox.com/sh/bd6bp71w3elzqas/AADIRfPrD7xQSZbxxVJekakma?dl=0) <br />
 The specialization consists of nine courses. 
 - Data Scientist Tool Box
 - R Programming 
@@ -168,25 +171,25 @@ The specialization consists of nine courses.
 
 __Big Data Specialization__<br />
 `Coursera (University of San Diego)`<br />
-[View Certificate](https://www.dropbox.com/sh/bd6bp71w3elzqas/AADIRfPrD7xQSZbxxVJekakma?dl=0)
+[View Certificate](https://www.dropbox.com/sh/bd6bp71w3elzqas/AADIRfPrD7xQSZbxxVJekakma?dl=0) <br />
 - Introduction to Big Data, Hadoop and its Ecosystem (HDFS and Map Reduce)<br />
 - Apache Spark and its components<br />
 - Graph Analytics with Neo4j and handling of data in KNIME and Splunk<br />
 
 __Machine Learning Specialization__ <br />
 `Coursera (University of Washington)`<br />
-[View Certificate](https://www.dropbox.com/sh/bd6bp71w3elzqas/AADIRfPrD7xQSZbxxVJekakma?dl=0)
+[View Certificate](https://www.dropbox.com/sh/bd6bp71w3elzqas/AADIRfPrD7xQSZbxxVJekakma?dl=0) <br />
 - Introduction to Machine Learning<br />
 - Regression, Classification and Clustering<br />
 
 __Data Analysis with R__<br />
 `Udacity`<br />
-[View Certificate](https://www.dropbox.com/sh/bd6bp71w3elzqas/AADIRfPrD7xQSZbxxVJekakma?dl=0)
+[View Certificate](https://www.dropbox.com/sh/bd6bp71w3elzqas/AADIRfPrD7xQSZbxxVJekakma?dl=0) <br />
 The course focused on the understanding of the various data preparation and Model Building techniques in R.<br />
 
 __Programming in Python and Data Analysis__<br />
 `Coursera`<br />
-[View Certificate](https://www.dropbox.com/sh/bd6bp71w3elzqas/AADIRfPrD7xQSZbxxVJekakma?dl=0)
+[View Certificate](https://www.dropbox.com/sh/bd6bp71w3elzqas/AADIRfPrD7xQSZbxxVJekakma?dl=0) <br />
 - Data Cleaning, EDA and Model Building and Evaluation.<br />
 - Data Analysis in Python, using various libraries.<br />
 - Numpy, Matplotlib, Seaborn, sklearn, Caret etc.<br />
