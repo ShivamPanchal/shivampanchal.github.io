@@ -1,9 +1,7 @@
-# Shivam Panchal
----
+<p align="center">  <span style="font-family:Papyrus; font-size:2em;">**Shivam Panchal**</span></p> 
+<p align="center"> **Data Scientist, Engineer and amateur Philosopher**
+[Email](mailto:shivam.panchal@mail.com) [LinkedIn](http://linkedin.com/panchalshivam) [Twitter](http://twitter.com/reach_shivam) [GitHub](http://github.com/shivampanchal) [Website](https://www.shivampanchal.github.io) </p>
 
-**Data Scientist, Engineer and amateur Philosopher**
-
-[Email](mailto:shivam.panchal@mail.com) [LinkedIn](http://linkedin.com/panchalshivam) [Twitter](http://twitter.com/reach_shivam) [GitHub](http://github.com/shivampanchal) [Website](https://www.shivampanchal.github.io)
 
 
 ---
@@ -160,6 +158,7 @@ __Careers after 10th&12th__<br />
 
 __Data Science Specialization__<br />
 `Coursera (John Hopkins University)`<br />
+[View Certificates](https://www.dropbox.com/sh/bd6bp71w3elzqas/AADIRfPrD7xQSZbxxVJekakma?dl=0)
 The specialization consists of nine courses. 
 - Data Scientist Tool Box
 - R Programming 
@@ -170,32 +169,31 @@ The specialization consists of nine courses.
 - Regression Models
 - Practical Machine Learning
 - Developing Data Products<br />
-[View Certificates](https://www.dropbox.com/sh/bd6bp71w3elzqas/AADIRfPrD7xQSZbxxVJekakma?dl=0)
 
 __Big Data Specialization__<br />
 `Coursera (University of San Diego)`<br />
+[View Certificate](https://www.dropbox.com/sh/bd6bp71w3elzqas/AADIRfPrD7xQSZbxxVJekakma?dl=0)
 - Introduction to Big Data, Hadoop and its Ecosystem (HDFS and Map Reduce)<br />
 - Apache Spark and its components<br />
 - Graph Analytics with Neo4j and handling of data in KNIME and Splunk<br />
-[View Certificate](https://www.dropbox.com/sh/bd6bp71w3elzqas/AADIRfPrD7xQSZbxxVJekakma?dl=0)
 
 __Machine Learning Specialization__ <br />
 `Coursera (University of Washington)`<br />
+[View Certificate](https://www.dropbox.com/sh/bd6bp71w3elzqas/AADIRfPrD7xQSZbxxVJekakma?dl=0)
 - Introduction to Machine Learning<br />
 - Regression, Classification and Clustering<br />
-[View Certificate](https://www.dropbox.com/sh/bd6bp71w3elzqas/AADIRfPrD7xQSZbxxVJekakma?dl=0)
 
 __Data Analysis with R__<br />
 `Udacity`<br />
-The course focused on the understanding of the various data preparation and Model Building techniques in R.<br />
 [View Certificate](https://www.dropbox.com/sh/bd6bp71w3elzqas/AADIRfPrD7xQSZbxxVJekakma?dl=0)
+The course focused on the understanding of the various data preparation and Model Building techniques in R.<br />
 
 __Programming in Python and Data Analysis__<br />
 `Coursera`<br />
+[View Certificate](https://www.dropbox.com/sh/bd6bp71w3elzqas/AADIRfPrD7xQSZbxxVJekakma?dl=0)
 - Data Cleaning, EDA and Model Building and Evaluation.<br />
 - Data Analysis in Python, using various libraries.<br />
 - Numpy, Matplotlib, Seaborn, sklearn, Caret etc.<br />
-[View Certificate](https://www.dropbox.com/sh/bd6bp71w3elzqas/AADIRfPrD7xQSZbxxVJekakma?dl=0)
 
 
 ----
