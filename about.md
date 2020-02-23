@@ -1,13 +1,16 @@
-# Shivam Panchal
-> Data Scientist, Engineer and amateur Philosopher
+# Shivam Panchal {style=text-align:center}
+<p align="center">
+Data Scientist, Engineer and amateur Philosopher
+</p>
 
+[Email](shivam.hbti2017@gmail.com)
 [LinkedIn](http://linkedin.com/panchalshivam)
 [Twitter](http://twitter.com/reach_shivam)
 [GitHub](http://github.com/shivampanchal)
 [Website](https://www.shivampanchal.github.io)
 
+---
 
-## Bio
 
 Hi there, **I'm Shivam**!
 
