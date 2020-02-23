@@ -6,7 +6,7 @@ title: About
 #---
 
 
-layout: cv
+layout: page
 title: About
 ---
 # SHIVAM PANCHAL
