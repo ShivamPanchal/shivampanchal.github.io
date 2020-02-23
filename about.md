@@ -1,14 +1,9 @@
 ---
 title: About
-#layout: page
-#---
-##![Profile Image]({{ site.url }}/{{ site.picture }})
-#---
-
-
 layout: page
-title: About
 ---
+##![Profile Image]({{ site.url }}/{{ site.picture }})
+
 # SHIVAM PANCHAL
 Data Scientist, Engineer and amateur Philosopher.
 
