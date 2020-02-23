@@ -7,10 +7,8 @@
 [GitHub](http://github.com/shivampanchal)
 [Website](https://www.shivampanchal.github.io)
 
----
 
 <p align="justify">
-  
 Hi there, **I am Shivam**
 I am a **Bachelor of Technology** from *Harcourt Butler Technological Institute*, Kanpur.
 
