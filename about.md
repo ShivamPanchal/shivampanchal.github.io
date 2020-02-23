@@ -1,7 +1,3 @@
-title: About
-layout: cv
-
-
 # Shivam Panchal
 Data Scientist, Engineer and amateur Philosopher
 
@@ -144,6 +140,63 @@ Download e-book
 
 ## Certifications
 
+| :------------- | :----------: |
+|  Data Science Specialization
+Coursera (John Hopkins University) | The specialization consists of nine courses; Major courses were-
+-R Programming, -Getting and Cleaning Data, -Exploratory Data Analysis,
+-Statistical Inference, -Reproducible Research, - Regression Models,
+-Practical Machine Learning –Developing Data Products   |
+| Big Data (Hadoop and its Ecosystem)
+Coursera (UC San Diego)  | Using Cloudera’s VM Quick start.
+Introduction to Big Data
+Hadoop and its Ecosystem (HDFS and Map Reduce)
+(Intro to Apache Spark- and its component)
+Graph Analytics with Neo4j and handling of data in KNIME and Splunk |
+
+
+
+
+CERTIFICATIONS
+
+Data Science Specialization
+Coursera (John Hopkins University)
+
+The specialization consists of nine courses; Major courses were-
+-R Programming, -Getting and Cleaning Data, -Exploratory Data Analysis,
+-Statistical Inference, -Reproducible Research, - Regression Models,
+-Practical Machine Learning –Developing Data Products
+
+Data Analysis with R
+Udacity
+The course focused on the understanding of the various data preparation and
+Model Building techniques in R.
+
+Data Analysis using Excel
+Coursera
+
+Statistical Analysis of small datasets in Excel, Data visualization and Plotting,
+Pivot Tables etc.
+
+Big Data (Hadoop and its Ecosystem)
+Coursera (UC San Diego)
+
+Using Cloudera’s VM Quick start.
+Introduction to Big Data
+Hadoop and its Ecosystem (HDFS and Map Reduce)
+(Intro to Apache Spark- and its component)
+Graph Analytics with Neo4j and handling of data in KNIME and Splunk
+
+Machine Learning
+Coursera (U of W)
+
+Introduction to Machine Learning
+Regression, Classification and Clustering
+
+Programming in Python and Data
+Analysis
+Data Cleaning, EDA and Model Building and Evaluation.
+Data Analysis in Python, using various libraries.
+Numpy, Matplotlib, Seaborn, sklearn, Caret etc.
 Data Science Specialization
 Coursera (John Hopkins University)
 
