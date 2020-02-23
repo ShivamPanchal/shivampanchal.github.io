@@ -2,10 +2,9 @@
 ---
 
 **Data Scientist, Engineer and amateur Philosopher**
----
 
 [Email](mailto:shivam.panchal@mail.com) [LinkedIn](http://linkedin.com/panchalshivam) [Twitter](http://twitter.com/reach_shivam) [GitHub](http://github.com/shivampanchal) [Website](https://www.shivampanchal.github.io)
----
+
 
 ---
 
