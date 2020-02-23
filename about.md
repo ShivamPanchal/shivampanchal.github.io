@@ -150,7 +150,7 @@ July 2014<br />
 
 ## Certifications
 
-**Data Science Specialization**<br />
+**Data Science Specialization (9 courses)**<br />
 __Coursera (John Hopkins University)__<br />
 [View Certificates](https://www.dropbox.com/sh/bd6bp71w3elzqas/AADIRfPrD7xQSZbxxVJekakma?dl=0) <br />
 The specialization consists of nine courses. 
@@ -164,27 +164,23 @@ The specialization consists of nine courses.
 - Practical Machine Learning
 - Developing Data Products<br />
 
-**Big Data Specialization**<br />
+**Big Data Specialization (4 courses)**<br />
 __Coursera (University of San Diego)__<br />
-[View Certificate](https://www.dropbox.com/sh/bd6bp71w3elzqas/AADIRfPrD7xQSZbxxVJekakma?dl=0) <br />
+[View Certificates](https://www.dropbox.com/sh/qqvob70eeuu381w/AAARe_DZqCjIlS8glbbywQgxa?dl=0) <br />
 - Introduction to Big Data, Hadoop and its Ecosystem (HDFS and Map Reduce)<br />
 - Apache Spark and its components<br />
 - Graph Analytics with Neo4j and handling of data in KNIME and Splunk<br />
 
-**Machine Learning Specialization** <br />
+**Machine Learning Specialization (3 courses)** <br />
 __Coursera (University of Washington)__<br />
-[View Certificate](https://www.dropbox.com/sh/bd6bp71w3elzqas/AADIRfPrD7xQSZbxxVJekakma?dl=0) <br />
+[View Certificate](https://www.coursera.org/account/accomplishments/certificate/P3MCM8N7H8BH) <br />
 - Introduction to Machine Learning<br />
 - Regression, Classification and Clustering<br />
 
-**Data Analysis with R**<br />
-__Udacity__ <br />
-[View Certificate](https://www.dropbox.com/sh/bd6bp71w3elzqas/AADIRfPrD7xQSZbxxVJekakma?dl=0) <br />
-The course focused on the understanding of the various data preparation and Model Building techniques in R.<br />
-
-**Programming in Python and Data Analysis**<br />
-__Coursera__ <br />
-[View Certificate](https://www.dropbox.com/sh/bd6bp71w3elzqas/AADIRfPrD7xQSZbxxVJekakma?dl=0) <br />
+**Data Science and Machine Learning Essentials**<br />
+__Microsoft__ <br />
+`2015`
+[View Certificate](https://courses.edx.org/certificates/6705637ab3eb487ea3f3dc11bfc197bd) <br />
 - Data Cleaning, EDA and Model Building and Evaluation.<br />
 - Data Analysis in Python, using various libraries.<br />
 - Numpy, Matplotlib, Seaborn, sklearn, Caret etc.<br />
@@ -195,6 +191,9 @@ __Coursera__ <br />
 ## Projects
 Check Projects [here]()
 
+
+## Recommendations
+![LinkedIn Recommendations](reviews.png)
 
 
 ---
