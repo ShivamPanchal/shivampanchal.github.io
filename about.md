@@ -86,7 +86,7 @@ Jun 2017 - Mar 2018<br />
 ![](techskill2.png)
 
 ### Soft Skills
-![](softskills.png)
+![](softskills.png){:height="500px" width="400px"}
 
 ### Other Background Information
 
