@@ -88,7 +88,17 @@ January 2017 - February 2017
 
 As an intern Data Analyst in SIBIA, I worked with data to extract insight, meaning and models, using a battery of statistical and machine learning techniques. My role was to provide machine learning support and data warehousing and summarizing, to help inform and validate.
 
+### Skills {#skills}
 
+* Web Design
+  : Assertively exploit wireless initiatives rather than synergistic core competencies.
+
+* Interface Design
+  : Credibly streamline mission-critical value with multifunctional functionalities.
+
+* Project Direction
+  : Proven ability to lead and manage a wide variety of design and development projects in team and independent situations.
+  
 ## Education
 
 `2012-15`
