@@ -29,7 +29,8 @@ Data Scientist<br />
 `July 2018 - November 2019` <br />
 
 <p align="justify">
-  
+
+
 I worked across various domains such as Banking, Finance, Healthcare and Telecom, working with various Start-ups and Individual Clients
 - Involved in gathering requirements while uncovering and defining multiple dimensions of the Project.
 - Extracting data from one or more sources for analysis.
@@ -38,6 +39,8 @@ I worked across various domains such as Banking, Finance, Healthcare and Telecom
 - Implementing Machine Learning and Deep Learning algorithms for supervised and unsupervised learning.
 - Build Machine learning and Deep Learning pipelines with end-to-end ETL processes with SQL/NoSQL databases.
 - Provide consulting and advise clients on Advance Machine Learning and Deep learning solution implementation.
+
+
 </p>
 
 __GLS__<br />
@@ -75,19 +78,14 @@ Data Science Analyst<br />
 
 
 ## Skills
-
 ### Technical Skills
 
-<p align="justify">
-  
-* **Databases**: SQL Server, MySQL, SQLite, PostgreSQL, MongoDB. 
+* **Databases**: SQL Server, MySQL, SQLite, PostgreSQL, MongoDB 
 * **Programming**: SQL, Python, Colab, Jupyter Notebook, Django, R, HTML
-* **Operating Systems**: Windows, Linux. 
+* **Operating Systems**: Windows, Linux
 * **BI Tools**: Tableau, Power BI, Tableau, Qli, Google Data Studio 
-* **Technologies**: OpenCV, TensorFlow, Theano, Keras, Scikit, Numpy, Pandas, YOLO, CUDA, Matplotlib, Plotly, GIT, AWS, GCP.
-* **Areas of Expertise**: Data Cleaning and Munging, Database Management and Warehousing, Statistical Analysis, Ad-hoc Reporting, Data Analysis, Data Visualization, Business Intelligence, Machine Learning and Deep Learning, Transfer Learning
-
-</p>
+* **Technologies**: OpenCV, TensorFlow, Theano, Keras, Scikit, Numpy, Pandas, YOLO, CUDA, Matplotlib, Plotly, GIT, AWS, GCP
+* **Areas of Expertise**: <p align="justify"> Data Cleaning and Munging, Database Management and Warehousing, Statistical Analysis, Ad-hoc Reporting, Data Analysis, Data Visualization, Business Intelligence, Machine Learning and Deep Learning, Transfer Learning </p>
 
 ### Soft Skills
 * Team Collaboration 
@@ -99,8 +97,6 @@ Data Science Analyst<br />
 ### Other Background Information
 
 <p align="justify">
-
-
 - Experienced in building end-to-end pipelines for Data manipulation, Modelling, Model selection and Prediction
 - Knowledge of a variety of Data Visualizations in Matplotlib, Plotly, Dash, Tableau and R Shiny, Plotly, QlikSense.
 - Statistical Analysis
@@ -118,7 +114,6 @@ Data Science Analyst<br />
 - Natural Language Processing and Text Analysis, Sentimental Analysis, Aspect Based, POS Tagging, Named Entity Recognition, Advanced text Classification using Deep Learning methods, Chatbots and DialogueFlow
 - Additional Tools - RapidMiner, WEKA, KNIME, TRIFECTA, Qlik, SASMiner, Excel, Tableau, Splunk, GIT, AWS, GCP
 - Mainstream Langiage - Python, R
-
 </p>
 
 
