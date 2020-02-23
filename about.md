@@ -5,17 +5,22 @@
 
 ---
 
+
+
 Hi there, **I am Shivam**
+
 I am a **Bachelor of Technology** from *Harcourt Butler Technological Institute*, Kanpur.
 
 <p align="justify"> 
-I have been working as a Data Science Consultant from past three years in the field of 
-Data Analysis & Data-Driven Decision Making, Statistical Analysis Techniques, Machine Learning and Deep Learning Modelling, Computer Vision and Natural Language Processing.</p>
+I have been working as a Data Science Consultant from past three years in the field of Data Analysis & Data-Driven Decision Making, Statistical Analysis Techniques, Machine Learning and Deep Learning Modelling, Computer Vision and Natural Language Processing.</p>
 
 <p align="justify"> 
 I have worked across various domains such as *Banking and Finance, Healthcare and Telecom*. Information and Knowledge is power in business, and data is the fuel that creates this power. I help my clients to grow by harnessing the power of data in their organizations and building products and solutions by extracting knowledge from their data and leveraging this data to take major decisions to a business problem.  
 
 I have a profound interest in Data Science, Artificial Intelligence and Internet of Things. I love to code and travel. I love all breeds of dog. </p>
+
+
+
 
 ## Experience
 
@@ -66,9 +71,13 @@ Data Science Analyst<br />
 - Data Visualizations for Data Analytics across all verticals using Tableau
 - Learning Module Development for Deep Learning (Keras+Tensorflow)
 
+
+
+
 ## Skills
 
 ### Technical Skills
+
 <p align="justify">
   
 * **Databases**: SQL Server, MySQL, SQLite, PostgreSQL, MongoDB. 
@@ -77,6 +86,7 @@ Data Science Analyst<br />
 * **BI Tools**: Tableau, Power BI, Tableau, Qli, Google Data Studio 
 * **Technologies**: OpenCV, TensorFlow, Theano, Keras, Scikit, Numpy, Pandas, YOLO, CUDA, Matplotlib, Plotly, GIT, AWS, GCP.
 * **Areas of Expertise**: Data Cleaning and Munging, Database Management and Warehousing, Statistical Analysis, Ad-hoc Reporting, Data Analysis, Data Visualization, Business Intelligence, Machine Learning and Deep Learning, Transfer Learning
+
 </p>
 
 ### Soft Skills
@@ -87,8 +97,10 @@ Data Science Analyst<br />
 * Sticking to Deadlines
 
 ### Other Background Information
+
 <p align="justify">
-  
+
+
 - Experienced in building end-to-end pipelines for Data manipulation, Modelling, Model selection and Prediction
 - Knowledge of a variety of Data Visualizations in Matplotlib, Plotly, Dash, Tableau and R Shiny, Plotly, QlikSense.
 - Statistical Analysis
@@ -108,6 +120,7 @@ Data Science Analyst<br />
 - Mainstream Langiage - Python, R
 
 </p>
+
 
 
 ## Education
