@@ -1,17 +1,10 @@
 # Shivam Panchal
-Data Scientist, Engineer and amateur Philosopher
+> Data Scientist, Engineer and amateur Philosopher
 
-<div id="webaddress">
-<a href="mailto:shivam.panchal@mail.com">shivam.panchal@mail.com</a>
-|
-<i class="fa fa-github"></i> <a href="http://github.com/shivampanchal">blmoore</a>
-|
-<i class="fa fa-twitter"></i> <a href="http://twitter.com/reach_shivam">benjaminlmoore</a>
-|
-<i class="fa fa-linkedin"></i> <a href="http://linkedin.com/panchalshivam">panchalshivam</a>
-|
-<i class="fa fa-instagram"></i> <a href="http://instagram.com/shivam_9423">shivam_9423</a>
-</div>
+[LinkedIn](http://linkedin.com/panchalshivam)
+[Twitter](http://twitter.com/reach_shivam)
+[GitHub](http://github.com/shivampanchal)
+[Website](https://www.shivampanchal.github.io)
 
 
 ## Bio
@@ -27,9 +20,9 @@ building solutions to help them grow using to extract knowledge from data and le
 
 ## Experience
 
-__Freelance Consultant__ 
-Data Scientist
-`July 2018 - November 2019` 
+__Freelance Consultant__ <br />
+Data Scientist<br />
+`July 2018 - November 2019` <br />
 
 I worked across various domains such as Banking, Finance, Healthcare and Telecom, working with various Start-ups and Individual Clients
 - Involved in gathering requirements while uncovering and defining multiple dimensions of the Project.
@@ -40,31 +33,31 @@ I worked across various domains such as Banking, Finance, Healthcare and Telecom
 - Build Machine learning and Deep Learning pipelines with end-to-end ETL processes with SQL/NoSQL databases.
 - Provide consulting and advise clients on Advance Machine Learning and Deep learning solution implementation.
 
-__GLS__
-Data Scientist
+__GLS__<br />
+Data Scientist<br />
 `Sep 2018 - Nov 2019`
 
 - Deep Learning based Forecasting Models, Churn Prediction
 - Chat bots and Natural Language Processing
 - Integration of a Data Visualization and Reporting with Process Work Flow.
 
-__S1Bit__
-Data Scientist
-`Sep 2018 - Nov 2019`
+__S1Bit__<br />
+Data Scientist<br />
+`Sep 2018 - Nov 2019`<br />
 
 - Stock Analysis and Time Series Analysis
 - Building Hybrid Machine Learning and Deep Learning based forecasting model
 - Integration of a Data Visualization and Reporting with Process Work Flow.
 
-__Sancoj__
-AI Developer
-`Mar 2018 - Nov 2019`
+__Sancoj__<br />
+AI Developer<br />
+`Mar 2018 - Nov 2019`<br />
 
 Worked on world’s first opportunity supermarket built on the Ethereum Blockchain and powered by Artificial Intelligence using transfer Learning and Natural language Processing.
 
-__MathLogic__
-Data Science Analyst
-`Jun 2017 - Mar 2018`
+__MathLogic__<br />
+Data Science Analyst<br />
+`Jun 2017 - Mar 2018`<br />
 
 - Data Insights and Reporting over multiple sources of data using Postgre SQL and Report Server.
 - Daily Scripts / APIs / Services for reporting mails and alerts for all Google ODK for AUSFB - Insurance Data.
@@ -112,24 +105,24 @@ Data Science Analyst
 
 ## Education
 
-__Harcourt Butler Technical Institute__ 
-Bachelor of Technology 
-`2013-17`
+__Harcourt Butler Technical Institute__ <br />
+Bachelor of Technology <br />
+`2013-17`<br />
 
 - I built my interest in analytics and machine learning in the first two years of college, then in last two years, I did code, did bunch of courses & obtained certificates, and excelled in in this field. 
 - Apart from this, I was also engaged in organizing functions, took part in event management, Seminar Management, Resource Generation, Marketing, Debate Quiz and Paper Presentation.
 
 
-__Silver Bells Public School__ 
-Senior Secondary School
-`2010-12`
+__Silver Bells Public School__ <br />
+Senior Secondary School<br />
+`2010-12`<br />
 
 - Physics and Mathematics, SOF, NSS, Football.
 
 ## Publications
 
-__Careers after 10th&12th__
-`Jun 2013 – Present`
+__Careers after 10th&12th__<br />
+`Jun 2013 – Present`<br />
 The goal of this book is to guide the students in choosing the right career after school and providing a lot of career options from which they can choose one, of their own interest. In addition to empowering and guiding the student towards the right career, this book is also dedicated to providing detailed information on various career options, courses, and colleges in India which help the students know a career in details and make an informed choice.
 Download e-book
 
@@ -139,7 +132,7 @@ Download e-book
 
 
 ## Certifications
-
+| | |
 | :------------- | :----------: |
 |  Data Science Specialization
 Coursera (John Hopkins University) | The specialization consists of nine courses; Major courses were-
