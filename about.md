@@ -76,22 +76,17 @@ Jun 2017 - Mar 2018<br />
 
 ## Skills
 ### Technical Skills
-![Tech Skills](techskill1.png)
-![](techskill2.png)
 * **Databases**: SQL Server, MySQL, SQLite, PostgreSQL, MongoDB 
 * **Programming**: SQL, Python, Colab, Jupyter Notebook, Django, R, HTML
 * **Operating Systems**: Windows, Linux
 * **BI Tools**: Tableau, Power BI, Qlik, Google Data Studio 
 * **Technologies**: OpenCV, TensorFlow, Theano, Keras, Scikit, Numpy, Pandas, YOLO, CUDA, Matplotlib, Plotly, GIT, AWS, GCP
 * **Areas of Expertise**: Data Cleaning and Munging, Database Management and Warehousing, Statistical Analysis, Ad-hoc Reporting, Data Analysis, Data Visualization, Business Intelligence, Machine Learning and Deep Learning, Transfer Learning
+![](techskill1.png)
+![](techskill2.png)
 
 ### Soft Skills
 ![](softskills.png)
-* Team Collaboration 
-* Critical Thinking
-* Result Oriented
-* Curiosity
-* Sticking to Deadlines
 
 ### Other Background Information
 
@@ -198,6 +193,10 @@ Check Projects [here]()
 ## Recommendations
 ![LinkedIn Recommendations](reviews.png)
 
+## Freelance Clients's Reviews and Profile
+![](rev.png)
+![](rev1.png)
+![](rev2.png)
 
 ---
 
@@ -213,7 +212,7 @@ Last updated: Feb 2020 -->
 
 ## Contact me
 
-This is rather brief, want to know more about me, check my resume here. And in the mean time, come say `Hello` on Twitter or by E-Mail.
+Come drop an E-Mail .
 
 [Email](mailto:shivam.panchal@mail.com) 
 [LinkedIn](http://linkedin.com/panchalshivam) 
