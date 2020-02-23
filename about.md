@@ -1,7 +1,4 @@
-# Shivam Panchal**
-**Data Scientist, Engineer and amateur Philosopher**
-
-[Email](mailto:shivam.panchal@mail.com) [LinkedIn](http://linkedin.com/panchalshivam) [Twitter](http://twitter.com/reach_shivam) [GitHub](http://github.com/shivampanchal) [Website](https://www.shivampanchal.github.io) 
+# Shivam Panchal
 
 ---
 
@@ -216,7 +213,11 @@ Last updated: Feb 2020 -->
 
 ## Contact me
 
-This is rather brief, want to know more about me, check my resume here. And in the mean time, come say `Hello` on [Twitter] or by [E-Mail].
+This is rather brief, want to know more about me, check my resume here. And in the mean time, come say `Hello` on Twitter or by E-Mail.
 
-[Twitter]: http://twitter.com/reach_shivam
-[E-Mail]: mailto:shivam.panchal@mail.com
+[Email](mailto:shivam.panchal@mail.com) 
+[LinkedIn](http://linkedin.com/panchalshivam) 
+[Twitter](http://twitter.com/reach_shivam) 
+[GitHub](http://github.com/shivampanchal) 
+[Website](https://www.shivampanchal.github.io) 
+**[+919648873304]**
