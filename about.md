@@ -1,6 +1,7 @@
----
 title: About
 layout: cv
+
+
 # Shivam Panchal
 Data Scientist, Engineer and amateur Philosopher
 
@@ -205,4 +206,3 @@ This is rather brief, want to know more about me, check my resume here. And in t
 
 [Twitter]: http://twitter.com/danbennett
 [E-Mail]: mailto:dan@danbennett.me
----
