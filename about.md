@@ -17,6 +17,8 @@ I have worked across various domains such as Banking and Finance, Healthcare and
 I have a profound interest in Data Science, Artificial Intelligence and Internet of Things. I love to code and travel. I love all breeds of dog. </p>
 
 [Email](mailto:shivam.panchal@mail.com) [LinkedIn](http://linkedin.com/panchalshivam)  [Twitter](http://twitter.com/reach_shivam) [GitHub](http://github.com/shivampanchal)
+
+
 ---
 
 
@@ -24,12 +26,9 @@ I have a profound interest in Data Science, Artificial Intelligence and Internet
 
 ## Experience
 
-__Freelance Consultant__ <br />
-Data Scientist<br />
-`July 2018 - November 2019` <br />
-
-<p align="justify">
-
+**Freelance Consultant** <br />
+__Data Scientist__<br />
+July 2018 - November 2019 <br />
 
 I worked across various domains such as Banking, Finance, Healthcare and Telecom, working with various Start-ups and Individual Clients
 - Involved in gathering requirements while uncovering and defining multiple dimensions of the Project.
@@ -41,33 +40,31 @@ I worked across various domains such as Banking, Finance, Healthcare and Telecom
 - Provide consulting and advise clients on Advance Machine Learning and Deep learning solution implementation.
 
 
-</p>
-
-__GLS__<br />
-Data Scientist<br />
-`Sep 2018 - Nov 2019`
+**GLS**<br />
+__Data Scientist__<br />
+Sep 2018 - Nov 2019
 
 - Deep Learning based Forecasting Models, Churn Prediction
 - Chat bots and Natural Language Processing
 - Integration of a Data Visualization and Reporting with Process Work Flow.
 
-__S1Bit__<br />
-Data Scientist<br />
-`Sep 2018 - Nov 2019`<br />
+**S1Bit**<br />
+__Data Scientist__<br />
+Sep 2018 - Nov 2019<br />
 
 - Stock Analysis and Time Series Analysis
 - Building Hybrid Machine Learning and Deep Learning based forecasting model
 - Integration of a Data Visualization and Reporting with Process Work Flow.
 
-__Sancoj__<br />
-AI Developer<br />
-`Mar 2018 - Nov 2019`<br />
+**Sancoj**<br />
+__AI Developer__<br />
+Mar 2018 - Nov 2019<br />
 
 Worked on world’s first opportunity supermarket built on the Ethereum Blockchain and powered by Artificial Intelligence using transfer Learning and Natural language Processing.
 
-__MathLogic__<br />
-Data Science Analyst<br />
-`Jun 2017 - Mar 2018`<br />
+**MathLogic**<br />
+__Data Science Analyst__<br />
+Jun 2017 - Mar 2018<br />
 
 - Data Insights and Reporting over multiple sources of data using Postgre SQL and Report Server.
 - Daily Scripts / APIs / Services for reporting mails and alerts for all Google ODK for AUSFB - Insurance Data.
@@ -140,21 +137,21 @@ Senior Secondary School<br />
 
 ## Publications
 
-__Careers after 10th&12th__<br />
-`July 2014`<br />
+**Careers after 10th&12th**<br />
+July 2014<br />
 <p align="justify">
-  The goal of this book is to guide the students in choosing the right career after school and providing a lot of career options from which they can choose one, of their own interest. In addition to empowering and guiding the student towards the right career, this book is also dedicated to providing detailed information on various career options, courses, and colleges in India which help the students know a career in details and make an informed choice.<br />
+  The goal of this book is to guide the students in choosing the right career after school and providing a lot of career options from which they can choose one, of their own interest. In addition to empowering and guiding the student towards the right career, this book is also dedicated to providing detailed information on various career options, courses, and colleges in India which help the students know a career in details and make an informed choice.<br /></p>
 
 [Download E-book](https://drive.google.com/open?id=0B9m3Mirzm0qlRmpiWXVZX3U4VW9CcGItTTl2WU1PY0hiZmFR)
-</p>
+
 
 
 ---
 
 ## Certifications
 
-__Data Science Specialization__<br />
-Coursera (John Hopkins University)<br />
+**Data Science Specialization**<br />
+__Coursera (John Hopkins University)__<br />
 [View Certificates](https://www.dropbox.com/sh/bd6bp71w3elzqas/AADIRfPrD7xQSZbxxVJekakma?dl=0) <br />
 The specialization consists of nine courses. 
 - Data Scientist Tool Box
@@ -167,26 +164,26 @@ The specialization consists of nine courses.
 - Practical Machine Learning
 - Developing Data Products<br />
 
-__Big Data Specialization__<br />
-Coursera (University of San Diego)<br />
+**Big Data Specialization**<br />
+__Coursera (University of San Diego)__<br />
 [View Certificate](https://www.dropbox.com/sh/bd6bp71w3elzqas/AADIRfPrD7xQSZbxxVJekakma?dl=0) <br />
 - Introduction to Big Data, Hadoop and its Ecosystem (HDFS and Map Reduce)<br />
 - Apache Spark and its components<br />
 - Graph Analytics with Neo4j and handling of data in KNIME and Splunk<br />
 
-__Machine Learning Specialization__ <br />
-Coursera (University of Washington)<br />
+**Machine Learning Specialization** <br />
+__Coursera (University of Washington)__<br />
 [View Certificate](https://www.dropbox.com/sh/bd6bp71w3elzqas/AADIRfPrD7xQSZbxxVJekakma?dl=0) <br />
 - Introduction to Machine Learning<br />
 - Regression, Classification and Clustering<br />
 
-__Data Analysis with R__<br />
-Udacity <br />
+**Data Analysis with R**<br />
+__Udacity__ <br />
 [View Certificate](https://www.dropbox.com/sh/bd6bp71w3elzqas/AADIRfPrD7xQSZbxxVJekakma?dl=0) <br />
 The course focused on the understanding of the various data preparation and Model Building techniques in R.<br />
 
-__Programming in Python and Data Analysis__<br />
-Coursera <br />
+**Programming in Python and Data Analysis**<br />
+__Coursera__ <br />
 [View Certificate](https://www.dropbox.com/sh/bd6bp71w3elzqas/AADIRfPrD7xQSZbxxVJekakma?dl=0) <br />
 - Data Cleaning, EDA and Model Building and Evaluation.<br />
 - Data Analysis in Python, using various libraries.<br />
