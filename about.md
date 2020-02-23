@@ -191,6 +191,7 @@ __Microsoft__ <br />
 ## Projects
 Check Projects [here]()
 
+---
 
 ## Recommendations
 ![LinkedIn Recommendations](reviews.png)
