@@ -133,7 +133,6 @@ Senior Secondary School
 
 __Careers after 10th&12th__
 `Jun 2013 – Present`
-
 The goal of this book is to guide the students in choosing the right career after school and providing a lot of career options from which they can choose one, of their own interest. In addition to empowering and guiding the student towards the right career, this book is also dedicated to providing detailed information on various career options, courses, and colleges in India which help the students know a career in details and make an informed choice.
 Download e-book
 
@@ -144,7 +143,7 @@ Download e-book
 
 ## Certifications
 
-__Data Science Specialization__
+Data Science Specialization
 Coursera (John Hopkins University)
 
 The specialization consists of nine courses; Major courses were-
@@ -204,7 +203,6 @@ Last updated: Feb 2020 -->
 
 This is rather brief, want to know more about me, check my resume here. And in the mean time, come say `Hello` on [Twitter] or by [E-Mail].
 
----
-
 [Twitter]: http://twitter.com/danbennett
 [E-Mail]: mailto:dan@danbennett.me
+---
