@@ -107,7 +107,7 @@ Jun 2017 - Mar 2018<br />
 - Database Management System- MySQL, MongoDB
 - Natural Language Processing and Text Analysis, Sentimental Analysis, Aspect Based, POS Tagging, Named Entity Recognition, Advanced text Classification using Deep Learning methods, Chatbots and DialogueFlow
 - Additional Tools - RapidMiner, WEKA, KNIME, TRIFECTA, Qlik, SASMiner, Excel, Tableau, Splunk, GIT, AWS, GCP
-- Mainstream Langiage - Python, R
+- Mainstream Language - Python, R
 
 
 ---
