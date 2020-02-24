@@ -9,7 +9,7 @@ Hi there, **I am Shivam**
 I am a **Bachelor of Technology** from ***Harcourt Butler Technological Institute***, Kanpur.
 
 <p align="justify"> 
-I have been working as a Data Science Consultant from past three years in the field of Data Analysis & Data-Driven Decision Making, Statistical Analysis Techniques, Machine Learning and Deep Learning Modelling, Computer Vision and Natural Language Processing.</p>
+I have been working as a Data Science Consultant from past 3 years in the field of Data Analysis & Data-Driven Decision Making, Statistical Analysis Techniques, Machine Learning and Deep Learning Modelling, Computer Vision and Natural Language Processing.</p>
 
 <p align="justify"> 
 I have worked across various domains such as Banking and Finance, Healthcare and Telecom. Information and Knowledge is power in business, and data is the fuel that creates this power. I help my clients to grow by harnessing the power of data in their organizations and building products and solutions by extracting knowledge from their data and leveraging this data to take major decisions to a business problem.  
@@ -187,7 +187,23 @@ __Microsoft__ <br />
 ----
 
 ## Projects
-Check Projects [here]()
+
+__Vehicle Number Plate Reading__
+- This project is used to detect the images of the vehicle license number plate, convert that license number plate code identified to text and store the data in system with date and time of vehicle and the identified number on number plate. This application can be used in parking areas to keep track of every vehicle and make parking process easier.  
+- Dependencies – OpenCV, Tesseract 4 
+
+__Traffic Rule Violation Detection System__
+- This project tries to detect a car whenever it passes a Red Light or over speeds. Based on TensorFlow to detect cars and from the detections in each frame each vehicle can be tracked across a video and can be checked if it crossed a red light and speed of that vehicle can be calculated.
+- Dependencies: TensorFlow-GPU, OpenCV, IMutils, Pillow, Numpy, TKinter, OpenALPR API
+
+__Stock Trading Tool__
+- This project allows users to access real-time stock prices to simulate the trading strategies of stocks within a portfolio and look buy and sell options.
+
+__Image Captioning and Medical Report Generation__
+- This project allows the user to scan an X-ray image and expect it to display the diseases in the lungs out of the 14 categories and then generate the medical report of the patient. In this way, this application reduces the scope of a Radiographer in clinical laboratories.
+
+
+To know about about my other works and projects, please let me know on Email.
 
 ---
 
@@ -222,4 +238,5 @@ Please drop an E-Mail .
 [Twitter](http://twitter.com/reach_shivam) 
 [GitHub](http://github.com/shivampanchal) 
 [Website](https://www.shivampanchal.github.io) 
+[Download Resume](https://drive.google.com/file/d/1Vv0lsSrUahBoqMSTkWuDWup1hCtfhj-K/view?usp=sharing)
 [+919648873304]
