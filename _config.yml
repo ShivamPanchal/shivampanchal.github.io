@@ -33,15 +33,16 @@ disqus:
   categories: [] # only show disqus for posts that have these categories
 
 # if you don't have any of social below, comment the line
-facebook: shivamchmp
-twitter: reach_shivam
-# google: mygoogle
-instagram: shivam_9423
 # pinterest: mypinterest
 linkedin: panchalshivam
 # youtube: myyoutube
-#spotify: ravenatic
 github: shivampanchal
+#spotify: ravenatic
+twitter: reach_shivam
+# google: mygoogle
+instagram: shivam_9423
+facebook: shivamchmp
+
 # gitlab: mygitlab
 # lastfm: mylastfm
 # stackoverflow: 7044681/mystackoverflow
