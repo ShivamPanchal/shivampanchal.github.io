@@ -211,14 +211,23 @@ To know about about my other works and projects, please let me know on Email.
 ![LinkedIn Recommendations](reviews.png)
 
 ### Freelance Clients's Reviews and Profile
+
 ![](Screenshot (58).png)
+
 ![](Screenshot (59).png)
+
 ![](Screenshot (60).png)
+
 ![](Screenshot (61).png)
+
 ![](Screenshot (62).png)
+
 ![](Screenshot (63).png)
+
 ![](Screenshot (64).png)
+
 ![](Screenshot (65).png)
+
 ![](Screenshot (66).png)
 
 Want to Hire me for your project or view my full Freelancer Portfolio, please drop me an email.
