@@ -119,8 +119,8 @@ __Harcourt Butler Technical Institute__ <br />
 Bachelor of Technology <br />
 `2013-17`<br />
 <p align="justify">
-- I built my interest in analytics and machine learning in the first two years of college, then in last two years, I did code, did bunch of courses & obtained certificates, and excelled in in this field. 
-- Apart from this, I was also engaged in organizing functions, took part in event management, Seminar Management, Resource Generation, Marketing, Debate Quiz and Paper Presentation.
+- Learning and Practicing Data Science and Machine Learning, completing courses and earning certificates and specializations to excel in in the field. 
+  -I was also engaged in Event Organization, Seminar Management, Resource Generation, Marketing, Debates, Quiz and Paper Presentation in my college. 
 </p>
 
 
