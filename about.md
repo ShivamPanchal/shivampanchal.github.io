@@ -140,7 +140,7 @@ July 2014<br />
 <p align="justify">
   The goal of this book is to guide the students in choosing the right career after school and providing a lot of career options from which they can choose one, of their own interest. In addition to empowering and guiding the student towards the right career, this book is also dedicated to providing detailed information on various career options, courses, and colleges in India which help the students know a career in details and make an informed choice.<br /></p>
 
-[Download E-book](https://drive.google.com/open?id=0B9m3Mirzm0qlRmpiWXVZX3U4VW9CcGItTTl2WU1PY0hiZmFR)
+[Download E-book](https://www.dropbox.com/s/r1309zkugd4is3f/Careers%20after%2010th%20and%2012th.pdf?dl=0)
 
 
 
