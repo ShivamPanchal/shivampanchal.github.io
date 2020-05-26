@@ -212,15 +212,15 @@ To know about about my other works and projects, please let me know on Email.
 
 ### Freelance Clients's Reviews and Profile
 
-<!---![](a1.png)-->
-<!---![](a2.png)-->
-<!---![](a3.png)-->
-<!---![](a4.png)-->
-<!---![](a5.png)-->
-<!---![](a6.png)-->
-<!---![](a7.png)-->
-<!---![](a8.png)-->
-<!---![](a9.png)-->
+![](a1.png)
+![](a2.png)
+![](a3.png)
+![](a4.png)
+![](a5.png)
+![](a6.png)
+![](a7.png)
+![](a8.png)
+![](a9.png)
 
 Want to Hire me for your project or view my full Freelancer Portfolio, please drop me an email.
 
