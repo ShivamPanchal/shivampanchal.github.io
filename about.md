@@ -212,7 +212,7 @@ To know about about my other works and projects, please let me know on Email.
 
 ### Freelance Clients's Reviews and Profile
 
-<!---![](a1.png)-->
+![](a1.png)
 <!---![](a2.png)-->
 <!---![](a3.png)-->
 <!---![](a4.png)-->
