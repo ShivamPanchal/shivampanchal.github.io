@@ -6,162 +6,168 @@
   <title>Shivam Panchal | Senior Data Scientist & ML Engineer</title>
   <meta charset="utf-8">
   <meta name="description"
-    content="Senior Data Scientist & Machine Learning Engineer with 5+ years of experience in AI, NLP, CV, Deep Learning, Forecasting and Advanced Analytics">
+    content="Senior Data Scientist & Machine Learning Engineer | AI, NLP, Computer Vision, Deep Learning, Forecasting">
   <meta name="keywords"
     content="Data Scientist, Machine Learning Engineer, AI Consultant, NLP, Computer Vision, Deep Learning">
   <meta name="author" content="Shivam Panchal">
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
   <!-- ================= FONTS ================= -->
-  <link href="https://fonts.googleapis.com/css?family=Poppins:100,200,300,400,500,600,700,800,900"
+  <link href="https://fonts.googleapis.com/css?family=Poppins:200,300,400,500,600,700,800,900"
     rel="stylesheet">
 
-  <!-- ================= CSS ================= -->
+  <!-- ================= CSS LIBS ================= -->
   <link rel="stylesheet" href="css/open-iconic-bootstrap.min.css">
   <link rel="stylesheet" href="css/animate.css">
   <link rel="stylesheet" href="css/owl.carousel.min.css">
   <link rel="stylesheet" href="css/owl.theme.default.min.css">
-  <link rel="stylesheet" href="css/magnific-popup.css">
   <link rel="stylesheet" href="css/aos.css">
-  <link rel="stylesheet" href="css/ionicons.min.css">
-  <link rel="stylesheet" href="css/flaticon.css">
-  <link rel="stylesheet" href="css/icomoon.css">
   <link rel="stylesheet" href="css/style.css">
 
-  <!-- ================= CUSTOM STYLES ================= -->
+  <!-- ================= CUSTOM BLACK THEME ================= -->
   <style>
     :root {
-      --accent: #ffbd39;
-      --dark: #0b132b;
-      --mid: #1c2541;
-      --light: #f8f9fa;
+      --black: #000000;
+      --black-soft: #0a0a0a;
+      --black-card: #111111;
+      --gold: #ffbd39;
+      --grey: #9a9a9a;
+      --white-soft: #e5e5e5;
+    }
+
+    * {
+      box-sizing: border-box;
     }
 
     body {
+      background: var(--black);
+      color: var(--white-soft);
       font-family: 'Poppins', sans-serif;
       scroll-behavior: smooth;
-      background-color: #ffffff;
+    }
+
+    a {
+      color: var(--gold);
     }
 
     h1,
     h2,
     h3,
     h4 {
+      color: #ffffff;
       font-weight: 700;
     }
 
     .section-subtitle {
-      color: var(--accent);
-      font-size: 13px;
-      letter-spacing: 2px;
+      color: var(--gold);
+      letter-spacing: 3px;
+      font-size: 12px;
       text-transform: uppercase;
       margin-bottom: 10px;
-      font-weight: 600;
     }
 
     .section-title {
       margin-bottom: 40px;
     }
 
-    #typing-animation {
-      font-size: 26px;
-      font-weight: 600;
-      color: var(--accent);
-      margin-top: 10px;
+    /* ---------- NAVBAR ---------- */
+    .navbar {
+      background: var(--black);
+      border-bottom: 1px solid #111;
+    }
+
+    .navbar-brand {
+      font-weight: 700;
+      letter-spacing: 1px;
     }
 
     /* ---------- HERO ---------- */
     .hero {
-      background: linear-gradient(120deg, var(--dark), var(--mid));
-      color: white;
+      min-height: 100vh;
+      display: flex;
+      align-items: center;
+      background: linear-gradient(120deg, #000000, #050505);
+    }
+
+    #typing-animation {
+      font-size: 26px;
+      font-weight: 600;
+      color: var(--gold);
+      margin-top: 10px;
+    }
+
+    .hero img {
+      border-radius: 12px;
+      box-shadow: 0 20px 60px rgba(255, 189, 57, 0.15);
+    }
+
+    /* ---------- CARDS ---------- */
+    .dark-card {
+      background: var(--black-card);
+      border-radius: 14px;
+      padding: 30px;
+      height: 100%;
+      border: 1px solid #1a1a1a;
+      box-shadow: 0 15px 40px rgba(0, 0, 0, 0.8);
+    }
+
+    .dark-card.gold-border {
+      border-left: 5px solid var(--gold);
     }
 
     /* ---------- ABOUT ---------- */
-    .about-card {
-      background: #ffffff;
-      border-radius: 12px;
-      box-shadow: 0 10px 40px rgba(0, 0, 0, 0.08);
-      padding: 30px;
-    }
-
     .about-photo {
-      border-radius: 12px;
-      box-shadow: 0 12px 30px rgba(0, 0, 0, 0.15);
+      border-radius: 14px;
+      box-shadow: 0 20px 60px rgba(0, 0, 0, 0.9);
     }
 
-    .highlight-box {
-      background: linear-gradient(120deg, var(--dark), var(--mid));
-      color: white;
-      padding: 25px;
-      border-radius: 10px;
-      border-left: 5px solid var(--accent);
-      margin-bottom: 25px;
-    }
-
-    /* ---------- CORE STRENGTHS ---------- */
-    .strength-card {
-      background: white;
-      border-radius: 12px;
-      padding: 25px;
-      height: 100%;
-      border-top: 4px solid var(--accent);
-      box-shadow: 0 8px 30px rgba(0, 0, 0, 0.06);
+    /* ---------- STRENGTHS ---------- */
+    .strength-icon {
+      font-size: 28px;
+      color: var(--gold);
+      margin-bottom: 15px;
     }
 
     /* ---------- PROJECTS ---------- */
-    .project-card {
-      background: white;
-      padding: 25px;
-      border-radius: 12px;
-      height: 100%;
-      border-left: 5px solid var(--accent);
-      box-shadow: 0 10px 30px rgba(0, 0, 0, 0.07);
-    }
-
-    /* ---------- RESUME ---------- */
-    .resume-wrap {
-      background: #ffffff;
-      padding: 25px;
-      border-radius: 10px;
-      margin-bottom: 25px;
-      box-shadow: 0 8px 25px rgba(0, 0, 0, 0.05);
+    .project-card h4 {
+      margin-bottom: 10px;
     }
 
     /* ---------- CONTACT ---------- */
     .contact-box {
-      background: linear-gradient(120deg, var(--dark), var(--mid));
-      color: white;
-      padding: 40px;
-      border-radius: 12px;
+      background: linear-gradient(140deg, #050505, #000000);
+      border-radius: 16px;
+      padding: 50px;
+      border: 1px solid #1a1a1a;
     }
 
     footer {
-      background: var(--dark);
-      color: #ccc;
+      background: #000000;
+      border-top: 1px solid #111;
+      padding: 30px 0;
     }
   </style>
 </head>
 
-<body data-spy="scroll" data-target=".site-navbar-target" data-offset="300">
+<body>
 
   <!-- =========================================================
        NAVBAR
   ========================================================= -->
-  <nav class="navbar navbar-expand-lg navbar-dark ftco_navbar site-navbar-target">
+  <nav class="navbar navbar-expand-lg navbar-dark fixed-top">
     <div class="container">
-      <a class="navbar-brand" href="#">Shivam Panchal</a>
-      <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#ftco-nav">
+      <a class="navbar-brand" href="#">SHIVAM PANCHAL</a>
+      <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#nav">
         <span class="oi oi-menu"></span>
       </button>
 
-      <div class="collapse navbar-collapse" id="ftco-nav">
+      <div class="collapse navbar-collapse" id="nav">
         <ul class="navbar-nav ml-auto">
           <li class="nav-item"><a href="#home" class="nav-link">Home</a></li>
           <li class="nav-item"><a href="#about" class="nav-link">About</a></li>
-          <li class="nav-item"><a href="#expertise" class="nav-link">Core Strengths</a></li>
-          <li class="nav-item"><a href="#resume" class="nav-link">Experience</a></li>
+          <li class="nav-item"><a href="#strengths" class="nav-link">Strengths</a></li>
+          <li class="nav-item"><a href="#experience" class="nav-link">Experience</a></li>
           <li class="nav-item"><a href="#projects" class="nav-link">Projects</a></li>
-          <li class="nav-item"><a href="#publications" class="nav-link">Publications</a></li>
           <li class="nav-item"><a href="#contact" class="nav-link">Contact</a></li>
         </ul>
       </div>
@@ -171,11 +177,11 @@
   <!-- =========================================================
        HERO
   ========================================================= -->
-  <section id="home" class="hero ftco-section">
+  <section id="home" class="hero">
     <div class="container">
       <div class="row align-items-center">
-        <div class="col-md-6 text-white">
-          <span class="section-subtitle">Hello, I’m</span>
+        <div class="col-md-6">
+          <span class="section-subtitle">Senior AI Professional</span>
           <h1>Shivam Panchal</h1>
           <div id="typing-animation"></div>
 
@@ -187,17 +193,18 @@
               "NLP & Computer Vision Specialist",
               "Forecasting & Predictive Modeling Expert"
             ];
-            let idx = 0;
+            let r = 0;
             const el = document.getElementById("typing-animation");
             setInterval(() => {
-              el.textContent = roles[idx];
-              idx = (idx + 1) % roles.length;
+              el.textContent = roles[r];
+              r = (r + 1) % roles.length;
             }, 2200);
           </script>
 
           <p class="mt-4">
-            Delivering scalable, production-ready AI solutions across Finance,
-            Healthcare, Telecom, Media, Blockchain and Enterprise Analytics.
+            I design, build, and deploy production-grade AI systems that solve
+            real business problems across Finance, Healthcare, Telecom,
+            Media, Blockchain, and Enterprise Analytics.
           </p>
 
           <a href="#contact" class="btn btn-warning px-4 py-3 mr-2">Hire Me</a>
@@ -205,7 +212,7 @@
         </div>
 
         <div class="col-md-6 text-center">
-          <img src="images/shivam-hero.jpg" class="img-fluid" alt="Shivam Panchal">
+          <img src="images/shivam-dark-hero.jpg" class="img-fluid" alt="Shivam Panchal">
         </div>
       </div>
     </div>
@@ -221,28 +228,23 @@
 
       <div class="row align-items-center">
         <div class="col-md-5">
-          <img src="images/shivam-about.jpg" class="img-fluid about-photo" alt="Shivam Panchal">
+          <img src="images/shivam-dark-about.jpg" class="img-fluid about-photo" alt="Shivam Panchal">
         </div>
 
         <div class="col-md-7">
-          <div class="about-card">
-            <div class="highlight-box">
-              Senior Data Scientist & Machine Learning Engineer with 5+ years of hands-on experience
-              delivering end-to-end AI solutions for 180+ clients across industries.
-            </div>
-
+          <div class="dark-card gold-border">
             <p>
-              My expertise spans Data Mining, Statistical Modeling, Machine Learning,
-              Deep Learning, Computer Vision, Natural Language Processing and Big Data Analytics.
-              I specialize in building scalable ML pipelines, deploying models into production,
-              and aligning analytics with real business outcomes.
+              Senior Data Scientist & Machine Learning Engineer with 5+ years of
+              hands-on experience delivering AI solutions to 180+ clients.
+              My work spans data mining, ML, DL, NLP, computer vision,
+              forecasting, and large-scale analytics systems.
             </p>
 
             <ul>
-              <li>✔ Full lifecycle ML & DL systems</li>
+              <li>✔ End-to-end ML & DL pipelines</li>
+              <li>✔ Production deployment & optimization</li>
               <li>✔ Client-facing consulting & architecture</li>
-              <li>✔ Production-grade AI solutions</li>
-              <li>✔ Cloud-ready & scalable pipelines</li>
+              <li>✔ Cloud-ready AI systems</li>
             </ul>
           </div>
         </div>
@@ -253,30 +255,33 @@
   <!-- =========================================================
        CORE STRENGTHS
   ========================================================= -->
-  <section id="expertise" class="ftco-section bg-light">
+  <section id="strengths" class="ftco-section">
     <div class="container">
       <span class="section-subtitle">Core Strengths</span>
-      <h2 class="section-title">What I Do Best</h2>
+      <h2 class="section-title">What I Excel At</h2>
 
       <div class="row">
         <div class="col-md-4">
-          <div class="strength-card">
+          <div class="dark-card">
+            <div class="strength-icon">⚙️</div>
             <h4>Machine Learning & AI</h4>
-            <p>Regression, classification, clustering, ensembles, deep learning architectures.</p>
+            <p>Regression, classification, ensembles, deep learning architectures.</p>
           </div>
         </div>
 
         <div class="col-md-4">
-          <div class="strength-card">
+          <div class="dark-card">
+            <div class="strength-icon">🧠</div>
             <h4>NLP & Computer Vision</h4>
-            <p>Sentiment analysis, NER, chatbots, object detection, OCR, medical imaging.</p>
+            <p>Sentiment analysis, chatbots, OCR, object detection, medical imaging.</p>
           </div>
         </div>
 
         <div class="col-md-4">
-          <div class="strength-card">
+          <div class="dark-card">
+            <div class="strength-icon">📈</div>
             <h4>Forecasting & Analytics</h4>
-            <p>Time-series forecasting, stock prediction, BI dashboards and insights.</p>
+            <p>Time-series forecasting, stock prediction, BI & decision systems.</p>
           </div>
         </div>
       </div>
@@ -293,33 +298,25 @@
 
       <div class="row">
         <div class="col-md-6">
-          <div class="project-card">
+          <div class="dark-card gold-border project-card">
             <h4>Vehicle Number Plate Recognition</h4>
-            <p>ANPR system using OpenCV & Tesseract for parking and surveillance automation.</p>
+            <p>
+              Built an ANPR system using OpenCV & Tesseract for real-time
+              vehicle identification in parking and surveillance environments.
+            </p>
           </div>
         </div>
 
         <div class="col-md-6">
-          <div class="project-card">
+          <div class="dark-card gold-border project-card">
             <h4>Traffic Rule Violation Detection</h4>
-            <p>YOLO + TensorFlow system for speed detection and red-light violation tracking.</p>
+            <p>
+              YOLO-based system to detect speed violations and red-light
+              jumping using video analytics and deep learning.
+            </p>
           </div>
         </div>
       </div>
-    </div>
-  </section>
-
-  <!-- =========================================================
-       PUBLICATIONS
-  ========================================================= -->
-  <section id="publications" class="ftco-section bg-light">
-    <div class="container">
-      <span class="section-subtitle">Publications</span>
-      <h2 class="section-title">Books & Writing</h2>
-      <p>
-        <strong>Careers after 10th & 12th (2014)</strong> — Career guidance book helping students
-        make informed academic and professional decisions.
-      </p>
     </div>
   </section>
 
@@ -329,13 +326,17 @@
   <section id="contact" class="ftco-section">
     <div class="container">
       <div class="contact-box text-center">
-        <h2>Let’s Work Together</h2>
+        <h2>Let’s Build Something Impactful</h2>
         <p>📍 Dehradun, India</p>
         <p>📞 +91-96488733304</p>
         <p>📧 shivam.hbti2017@gmail.com</p>
 
-        <a href="https://www.linkedin.com/in/panchalshivam/" class="btn btn-warning px-4 py-3 mr-2">LinkedIn</a>
-        <a href="https://github.com/ShivamPanchal" class="btn btn-outline-light px-4 py-3">GitHub</a>
+        <a href="https://www.linkedin.com/in/panchalshivam/" class="btn btn-warning px-4 py-3 mr-2">
+          LinkedIn
+        </a>
+        <a href="https://github.com/ShivamPanchal" class="btn btn-outline-light px-4 py-3">
+          GitHub
+        </a>
       </div>
     </div>
   </section>
@@ -343,7 +344,7 @@
   <!-- =========================================================
        FOOTER
   ========================================================= -->
-  <footer class="ftco-footer">
+  <footer>
     <div class="container text-center">
       <p>© <script>document.write(new Date().getFullYear());</script> Shivam Panchal. All Rights Reserved.</p>
     </div>
@@ -352,9 +353,7 @@
   <!-- ================= JS ================= -->
   <script src="js/jquery.min.js"></script>
   <script src="js/bootstrap.min.js"></script>
-  <script src="js/owl.carousel.min.js"></script>
   <script src="js/aos.js"></script>
-  <script src="js/main.js"></script>
-
 </body>
+
 </html>
