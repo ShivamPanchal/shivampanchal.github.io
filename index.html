@@ -1,16 +1,20 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
   <!-- ================= META ================= -->
   <title>Shivam Panchal | Senior Data Scientist & ML Engineer</title>
   <meta charset="utf-8">
-  <meta name="description" content="Shivam Panchal - Senior Data Scientist & Machine Learning Engineer with 5+ years experience in AI, NLP, CV, Deep Learning, Forecasting and Analytics">
-  <meta name="keywords" content="Data Scientist, Machine Learning Engineer, AI Consultant, NLP, Computer Vision, Deep Learning, Forecasting">
+  <meta name="description"
+    content="Senior Data Scientist & Machine Learning Engineer with 5+ years of experience in AI, NLP, CV, Deep Learning, Forecasting and Advanced Analytics">
+  <meta name="keywords"
+    content="Data Scientist, Machine Learning Engineer, AI Consultant, NLP, Computer Vision, Deep Learning">
   <meta name="author" content="Shivam Panchal">
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
   <!-- ================= FONTS ================= -->
-  <link href="https://fonts.googleapis.com/css?family=Poppins:100,200,300,400,500,600,700,800,900" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css?family=Poppins:100,200,300,400,500,600,700,800,900"
+    rel="stylesheet">
 
   <!-- ================= CSS ================= -->
   <link rel="stylesheet" href="css/open-iconic-bootstrap.min.css">
@@ -24,278 +28,333 @@
   <link rel="stylesheet" href="css/icomoon.css">
   <link rel="stylesheet" href="css/style.css">
 
-  <!-- ================= CUSTOM INLINE STYLES ================= -->
+  <!-- ================= CUSTOM STYLES ================= -->
   <style>
-    body { scroll-behavior: smooth; }
+    :root {
+      --accent: #ffbd39;
+      --dark: #0b132b;
+      --mid: #1c2541;
+      --light: #f8f9fa;
+    }
 
-    #typing-animation {
-      font-size: 28px;
-      font-weight: 600;
-      color: #ffffff;
-      white-space: nowrap;
+    body {
+      font-family: 'Poppins', sans-serif;
+      scroll-behavior: smooth;
+      background-color: #ffffff;
+    }
+
+    h1,
+    h2,
+    h3,
+    h4 {
+      font-weight: 700;
     }
 
     .section-subtitle {
-      color: #999;
-      font-size: 14px;
-      text-transform: uppercase;
+      color: var(--accent);
+      font-size: 13px;
       letter-spacing: 2px;
+      text-transform: uppercase;
       margin-bottom: 10px;
+      font-weight: 600;
+    }
+
+    .section-title {
+      margin-bottom: 40px;
+    }
+
+    #typing-animation {
+      font-size: 26px;
+      font-weight: 600;
+      color: var(--accent);
+      margin-top: 10px;
+    }
+
+    /* ---------- HERO ---------- */
+    .hero {
+      background: linear-gradient(120deg, var(--dark), var(--mid));
+      color: white;
+    }
+
+    /* ---------- ABOUT ---------- */
+    .about-card {
+      background: #ffffff;
+      border-radius: 12px;
+      box-shadow: 0 10px 40px rgba(0, 0, 0, 0.08);
+      padding: 30px;
+    }
+
+    .about-photo {
+      border-radius: 12px;
+      box-shadow: 0 12px 30px rgba(0, 0, 0, 0.15);
     }
 
     .highlight-box {
-      background: #111;
-      padding: 20px;
-      border-left: 4px solid #ffbd39;
-      margin-bottom: 20px;
+      background: linear-gradient(120deg, var(--dark), var(--mid));
+      color: white;
+      padding: 25px;
+      border-radius: 10px;
+      border-left: 5px solid var(--accent);
+      margin-bottom: 25px;
     }
 
-    .expertise-list li {
-      margin-bottom: 8px;
+    /* ---------- CORE STRENGTHS ---------- */
+    .strength-card {
+      background: white;
+      border-radius: 12px;
+      padding: 25px;
+      height: 100%;
+      border-top: 4px solid var(--accent);
+      box-shadow: 0 8px 30px rgba(0, 0, 0, 0.06);
     }
 
-    .zoom-effect {
-      overflow: hidden;
-      transition: transform 0.4s ease;
+    /* ---------- PROJECTS ---------- */
+    .project-card {
+      background: white;
+      padding: 25px;
+      border-radius: 12px;
+      height: 100%;
+      border-left: 5px solid var(--accent);
+      box-shadow: 0 10px 30px rgba(0, 0, 0, 0.07);
     }
-    .zoom-effect:hover {
-      transform: scale(1.08);
+
+    /* ---------- RESUME ---------- */
+    .resume-wrap {
+      background: #ffffff;
+      padding: 25px;
+      border-radius: 10px;
+      margin-bottom: 25px;
+      box-shadow: 0 8px 25px rgba(0, 0, 0, 0.05);
+    }
+
+    /* ---------- CONTACT ---------- */
+    .contact-box {
+      background: linear-gradient(120deg, var(--dark), var(--mid));
+      color: white;
+      padding: 40px;
+      border-radius: 12px;
+    }
+
+    footer {
+      background: var(--dark);
+      color: #ccc;
     }
   </style>
 </head>
 
 <body data-spy="scroll" data-target=".site-navbar-target" data-offset="300">
 
-<!-- =========================================================
-     NAVBAR
-========================================================= -->
-<nav class="navbar navbar-expand-lg navbar-dark ftco_navbar ftco-navbar-light site-navbar-target">
-  <div class="container">
-    <a class="navbar-brand" href="#">Shivam Panchal</a>
-    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#ftco-nav">
-      <span class="oi oi-menu"></span>
-    </button>
+  <!-- =========================================================
+       NAVBAR
+  ========================================================= -->
+  <nav class="navbar navbar-expand-lg navbar-dark ftco_navbar site-navbar-target">
+    <div class="container">
+      <a class="navbar-brand" href="#">Shivam Panchal</a>
+      <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#ftco-nav">
+        <span class="oi oi-menu"></span>
+      </button>
 
-    <div class="collapse navbar-collapse" id="ftco-nav">
-      <ul class="navbar-nav ml-auto">
-        <li class="nav-item"><a href="#home" class="nav-link">Home</a></li>
-        <li class="nav-item"><a href="#about" class="nav-link">About</a></li>
-        <li class="nav-item"><a href="#expertise" class="nav-link">Expertise</a></li>
-        <li class="nav-item"><a href="#resume" class="nav-link">Resume</a></li>
-        <li class="nav-item"><a href="#projects" class="nav-link">Projects</a></li>
-        <li class="nav-item"><a href="#publications" class="nav-link">Publications</a></li>
-        <li class="nav-item"><a href="#contact" class="nav-link">Contact</a></li>
-      </ul>
+      <div class="collapse navbar-collapse" id="ftco-nav">
+        <ul class="navbar-nav ml-auto">
+          <li class="nav-item"><a href="#home" class="nav-link">Home</a></li>
+          <li class="nav-item"><a href="#about" class="nav-link">About</a></li>
+          <li class="nav-item"><a href="#expertise" class="nav-link">Core Strengths</a></li>
+          <li class="nav-item"><a href="#resume" class="nav-link">Experience</a></li>
+          <li class="nav-item"><a href="#projects" class="nav-link">Projects</a></li>
+          <li class="nav-item"><a href="#publications" class="nav-link">Publications</a></li>
+          <li class="nav-item"><a href="#contact" class="nav-link">Contact</a></li>
+        </ul>
+      </div>
     </div>
-  </div>
-</nav>
+  </nav>
 
-<!-- =========================================================
-     HERO SECTION
-========================================================= -->
-<section id="home" class="hero">
-  <div class="home-slider owl-carousel">
-    <div class="slider-item">
-      <div class="overlay"></div>
-      <div class="container">
-        <div class="row align-items-end">
-          <div class="col-md-6 text">
-            <span class="subheading">Hello, I’m</span>
-            <h1>Shivam Panchal</h1>
-            <div id="typing-animation"></div>
+  <!-- =========================================================
+       HERO
+  ========================================================= -->
+  <section id="home" class="hero ftco-section">
+    <div class="container">
+      <div class="row align-items-center">
+        <div class="col-md-6 text-white">
+          <span class="section-subtitle">Hello, I’m</span>
+          <h1>Shivam Panchal</h1>
+          <div id="typing-animation"></div>
 
-            <script>
-              const roles = [
-                "Senior Data Scientist",
-                "Machine Learning Engineer",
-                "AI & Analytics Consultant",
-                "NLP & Computer Vision Specialist",
-                "Forecasting & Predictive Modeling Expert"
-              ];
-              let idx = 0;
-              const el = document.getElementById("typing-animation");
-              setInterval(() => {
-                el.textContent = roles[idx];
-                idx = (idx + 1) % roles.length;
-              }, 2200);
-            </script>
+          <script>
+            const roles = [
+              "Senior Data Scientist",
+              "Machine Learning Engineer",
+              "AI & Analytics Consultant",
+              "NLP & Computer Vision Specialist",
+              "Forecasting & Predictive Modeling Expert"
+            ];
+            let idx = 0;
+            const el = document.getElementById("typing-animation");
+            setInterval(() => {
+              el.textContent = roles[idx];
+              idx = (idx + 1) % roles.length;
+            }, 2200);
+          </script>
 
-            <p class="mt-4">
-              Delivering scalable, production-ready AI solutions across Finance,
-              Healthcare, Telecom, Media, Blockchain and Enterprise Analytics.
-            </p>
+          <p class="mt-4">
+            Delivering scalable, production-ready AI solutions across Finance,
+            Healthcare, Telecom, Media, Blockchain and Enterprise Analytics.
+          </p>
+
+          <a href="#contact" class="btn btn-warning px-4 py-3 mr-2">Hire Me</a>
+          <a href="https://github.com/ShivamPanchal" class="btn btn-outline-light px-4 py-3">GitHub</a>
+        </div>
+
+        <div class="col-md-6 text-center">
+          <img src="images/shivam-hero.jpg" class="img-fluid" alt="Shivam Panchal">
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- =========================================================
+       ABOUT
+  ========================================================= -->
+  <section id="about" class="ftco-section">
+    <div class="container">
+      <span class="section-subtitle">Profile</span>
+      <h2 class="section-title">About Me</h2>
+
+      <div class="row align-items-center">
+        <div class="col-md-5">
+          <img src="images/shivam-about.jpg" class="img-fluid about-photo" alt="Shivam Panchal">
+        </div>
+
+        <div class="col-md-7">
+          <div class="about-card">
+            <div class="highlight-box">
+              Senior Data Scientist & Machine Learning Engineer with 5+ years of hands-on experience
+              delivering end-to-end AI solutions for 180+ clients across industries.
+            </div>
 
             <p>
-              <a href="https://github.com/YOUR_GITHUB" class="btn btn-primary px-4 py-3">GitHub</a>
-              <a href="#contact" class="btn btn-white btn-outline-white px-4 py-3">Hire Me</a>
+              My expertise spans Data Mining, Statistical Modeling, Machine Learning,
+              Deep Learning, Computer Vision, Natural Language Processing and Big Data Analytics.
+              I specialize in building scalable ML pipelines, deploying models into production,
+              and aligning analytics with real business outcomes.
             </p>
-          </div>
 
-          <div class="col-md-6">
-            <img src="images/shivam.jpg" class="img-fluid" alt="Shivam Panchal">
+            <ul>
+              <li>✔ Full lifecycle ML & DL systems</li>
+              <li>✔ Client-facing consulting & architecture</li>
+              <li>✔ Production-grade AI solutions</li>
+              <li>✔ Cloud-ready & scalable pipelines</li>
+            </ul>
           </div>
         </div>
       </div>
     </div>
-  </div>
-</section>
+  </section>
 
-<!-- =========================================================
-     ABOUT
-========================================================= -->
-<section id="about" class="ftco-section">
-  <div class="container">
-    <span class="section-subtitle">Profile</span>
-    <h2>About Me</h2>
+  <!-- =========================================================
+       CORE STRENGTHS
+  ========================================================= -->
+  <section id="expertise" class="ftco-section bg-light">
+    <div class="container">
+      <span class="section-subtitle">Core Strengths</span>
+      <h2 class="section-title">What I Do Best</h2>
 
-    <div class="highlight-box">
-      I am a Senior Data Scientist and Machine Learning Engineer with deep expertise in
-      Data Mining, Statistical Modeling, Machine Learning, Deep Learning, Computer Vision,
-      Natural Language Processing, and Big Data Analytics. I have successfully delivered
-      end-to-end AI solutions, from ideation and experimentation to deployment and optimization.
-    </div>
+      <div class="row">
+        <div class="col-md-4">
+          <div class="strength-card">
+            <h4>Machine Learning & AI</h4>
+            <p>Regression, classification, clustering, ensembles, deep learning architectures.</p>
+          </div>
+        </div>
 
+        <div class="col-md-4">
+          <div class="strength-card">
+            <h4>NLP & Computer Vision</h4>
+            <p>Sentiment analysis, NER, chatbots, object detection, OCR, medical imaging.</p>
+          </div>
+        </div>
 
-    <ul class="expertise-list">
-      <li>End-to-end ML & DL pipeline ownership</li>
-      <li>Production-grade AI systems</li>
-      <li>Business-aligned analytics & modeling</li>
-      <li>Client-facing consulting & solution architecture</li>
-    </ul>
-  </div>
-</section>
-
-<!-- =========================================================
-     EXPERTISE
-========================================================= -->
-<section id="expertise" class="ftco-section bg-light">
-  <div class="container">
-    <span class="section-subtitle">Core Strengths</span>
-    <h2>Areas of Expertise</h2>
-
-    <div class="row">
-      <div class="col-md-6">
-        <ul>
-          <li>Machine Learning & Statistical Modeling</li>
-          <li>Deep Learning (CNN, RNN, Transformers)</li>
-          <li>Computer Vision (YOLO, R-CNN, OpenCV)</li>
-          <li>NLP (Sentiment, NER, Chatbots, LLMs)</li>
-          <li>Time Series Forecasting & Stock Prediction</li>
-        </ul>
-      </div>
-      <div class="col-md-6">
-        <ul>
-          <li>ETL & Data Engineering Pipelines</li>
-          <li>Cloud Deployment (AWS, GCP)</li>
-          <li>Business Intelligence & Visualization</li>
-          <li>SQL / NoSQL Databases</li>
-          <li>Client Consulting & Technical Leadership</li>
-        </ul>
+        <div class="col-md-4">
+          <div class="strength-card">
+            <h4>Forecasting & Analytics</h4>
+            <p>Time-series forecasting, stock prediction, BI dashboards and insights.</p>
+          </div>
+        </div>
       </div>
     </div>
-  </div>
-</section>
+  </section>
 
-<!-- =========================================================
-     RESUME (EXPERIENCE + EDUCATION)
-========================================================= -->
-<section id="resume" class="ftco-section">
-  <div class="container">
-    <h2>Professional Experience</h2>
+  <!-- =========================================================
+       PROJECTS
+  ========================================================= -->
+  <section id="projects" class="ftco-section">
+    <div class="container">
+      <span class="section-subtitle">Portfolio</span>
+      <h2 class="section-title">Key Projects</h2>
 
-    <div class="resume-wrap">
-      <h3>Consultant & Data Scientist</h3>
-      <span>July 2022 – Present</span>
+      <div class="row">
+        <div class="col-md-6">
+          <div class="project-card">
+            <h4>Vehicle Number Plate Recognition</h4>
+            <p>ANPR system using OpenCV & Tesseract for parking and surveillance automation.</p>
+          </div>
+        </div>
+
+        <div class="col-md-6">
+          <div class="project-card">
+            <h4>Traffic Rule Violation Detection</h4>
+            <p>YOLO + TensorFlow system for speed detection and red-light violation tracking.</p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- =========================================================
+       PUBLICATIONS
+  ========================================================= -->
+  <section id="publications" class="ftco-section bg-light">
+    <div class="container">
+      <span class="section-subtitle">Publications</span>
+      <h2 class="section-title">Books & Writing</h2>
       <p>
-        Worked across Banking, Finance, Healthcare, Telecom and Media domains.
-        Delivered 130+ projects covering ML, DL, NLP, CV, and Forecasting.
+        <strong>Careers after 10th & 12th (2014)</strong> — Career guidance book helping students
+        make informed academic and professional decisions.
       </p>
     </div>
+  </section>
 
-    <div class="resume-wrap">
-      <h3>Data Scientist – S1Bit</h3>
-      <span>Sep 2021 – Nov 2022</span>
-      <p>
-        Stock analysis, time-series forecasting, and hybrid ML/DL predictive systems.
-      </p>
+  <!-- =========================================================
+       CONTACT
+  ========================================================= -->
+  <section id="contact" class="ftco-section">
+    <div class="container">
+      <div class="contact-box text-center">
+        <h2>Let’s Work Together</h2>
+        <p>📍 Dehradun, India</p>
+        <p>📞 +91-96488733304</p>
+        <p>📧 shivam.hbti2017@gmail.com</p>
+
+        <a href="https://www.linkedin.com/in/panchalshivam/" class="btn btn-warning px-4 py-3 mr-2">LinkedIn</a>
+        <a href="https://github.com/ShivamPanchal" class="btn btn-outline-light px-4 py-3">GitHub</a>
+      </div>
     </div>
+  </section>
 
-    <div class="resume-wrap">
-      <h3>Data Science Analyst – MathLogic</h3>
-      <span>Jun 2020 – Mar 2021</span>
-      <p>
-        Data insights, automated reporting pipelines, PostgreSQL analytics,
-        and deep learning training modules.
-      </p>
+  <!-- =========================================================
+       FOOTER
+  ========================================================= -->
+  <footer class="ftco-footer">
+    <div class="container text-center">
+      <p>© <script>document.write(new Date().getFullYear());</script> Shivam Panchal. All Rights Reserved.</p>
     </div>
+  </footer>
 
-    <h2 class="mt-5">Education</h2>
-    <p><strong>B.Tech (2016–2020)</strong> — Harcourt Butler Technical Institute, Kanpur</p>
-    <p><strong>Senior Secondary (2014–2016)</strong> — Silver Bells Public School</p>
-  </div>
-</section>
-
-<!-- =========================================================
-     PROJECTS
-========================================================= -->
-<section id="projects" class="ftco-section bg-light">
-  <div class="container">
-    <h2>Key Projects</h2>
-
-    <ul>
-      <li><strong>Vehicle Number Plate Recognition:</strong> OpenCV + Tesseract-based ANPR system</li>
-      <li><strong>Traffic Rule Violation Detection:</strong> YOLO + TensorFlow real-time CV system</li>
-      <li><strong>Stock Trading Tool:</strong> Real-time trading strategy simulation platform</li>
-      <li><strong>Medical Image Captioning:</strong> X-ray disease detection & report generation</li>
-    </ul>
-  </div>
-</section>
-
-<!-- =========================================================
-     PUBLICATIONS
-========================================================= -->
-<section id="publications" class="ftco-section">
-  <div class="container">
-    <h2>Publications</h2>
-    <p>
-      <strong>Careers after 10th & 12th (2014)</strong> — A comprehensive career guidance
-      book helping students choose informed career paths in India.
-    </p>
-  </div>
-</section>
-
-<!-- =========================================================
-     CONTACT
-========================================================= -->
-<section id="contact" class="ftco-section bg-dark text-white">
-  <div class="container text-center">
-    <h2>Contact</h2>
-    <p>📍 Dehradun, India</p>
-    <p>📞 +91-96488733304</p>
-    <p>📧 shivam.hbti2017@gmail.com</p>
-
-    <p>
-      <a href="https://www.linkedin.com/in/panchalshivam/" class="btn btn-primary">LinkedIn</a>
-      <a href="https://github.com/ShivamPanchal" class="btn btn-outline-light">GitHub</a>
-    </p>
-  </div>
-</section>
-
-<!-- =========================================================
-     FOOTER
-========================================================= -->
-<footer class="ftco-footer">
-  <div class="container text-center">
-    <p>© <script>document.write(new Date().getFullYear());</script> Shivam Panchal. All Rights Reserved.</p>
-  </div>
-</footer>
-
-<!-- ================= JS ================= -->
-<script src="js/jquery.min.js"></script>
-<script src="js/bootstrap.min.js"></script>
-<script src="js/owl.carousel.min.js"></script>
-<script src="js/aos.js"></script>
-<script src="js/main.js"></script>
+  <!-- ================= JS ================= -->
+  <script src="js/jquery.min.js"></script>
+  <script src="js/bootstrap.min.js"></script>
+  <script src="js/owl.carousel.min.js"></script>
+  <script src="js/aos.js"></script>
+  <script src="js/main.js"></script>
 
 </body>
 </html>
