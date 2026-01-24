@@ -222,35 +222,141 @@
        ABOUT
   ========================================================= -->
   <section id="about" class="ftco-section">
+    <style>
+      #about {
+        background: #0b0b0b;
+      }
+  
+      #about .dark-card {
+        background: #0e0e0e;
+        padding: 30px;
+        border-radius: 14px;
+        border-left: 4px solid #ffd700;
+        color: #ddd;
+      }
+  
+      #about .expertise-box {
+        background: #111;
+        border: 1px solid rgba(255, 215, 0, 0.25);
+        padding: 25px;
+        height: 100%;
+        border-radius: 14px;
+        transition: all 0.3s ease;
+      }
+  
+      #about .expertise-box h4 {
+        color: #ffd700;
+        font-size: 18px;
+        margin-bottom: 10px;
+      }
+  
+      #about .expertise-box p {
+        color: #ccc;
+        font-size: 14px;
+        line-height: 1.6;
+        margin-bottom: 0;
+      }
+  
+      #about .expertise-box:hover {
+        transform: translateY(-6px);
+        box-shadow: 0 12px 30px rgba(255, 215, 0, 0.15);
+      }
+  
+      #about .expertise-box.wide {
+        text-align: center;
+      }
+  
+      #about .about-photo {
+        border-radius: 18px;
+        box-shadow: 0 10px 40px rgba(0,0,0,0.6);
+      }
+  
+      @media (max-width: 768px) {
+        #about .expertise-box {
+          padding: 20px;
+        }
+      }
+    </style>
+  
     <div class="container">
       <span class="section-subtitle">Profile</span>
       <h2 class="section-title">About Me</h2>
-
-      <div class="row align-items-center">
+  
+      <!-- Intro Row -->
+      <div class="row align-items-center mb-5">
         <div class="col-md-5">
           <img src="images/shivam-dark-about.jpg" class="img-fluid about-photo" alt="Shivam Panchal">
         </div>
-
+  
         <div class="col-md-7">
-          <div class="dark-card gold-border">
+          <div class="dark-card">
             <p>
-              Senior Data Scientist & Machine Learning Engineer with 5+ years of
-              hands-on experience delivering AI solutions to 180+ clients.
-              My work spans data mining, ML, DL, NLP, and computer vision,
-              forecasting, and large-scale analytics systems.
+              Senior Data Scientist & Machine Learning Engineer with <strong>5+ years of hands-on experience</strong> and
+              <strong>7+ years of AI exposure</strong>, delivering production-grade AI solutions to
+              <strong>180+ global clients</strong>. I specialize in building scalable, cloud-ready AI systems
+              across finance, healthcare, telecom, and emerging technologies.
             </p>
-
-            <ul>
-              <li>✔ End-to-end ML & DL pipelines</li>
-              <li>✔ Production deployment & optimization</li>
-              <li>✔ Client-facing consulting & architecture</li>
-              <li>✔ Cloud-ready AI systems</li>
-            </ul>
+          </div>
+        </div>
+      </div>
+  
+      <!-- Expertise Boxes -->
+      <div class="row">
+        <div class="col-md-4 mb-4">
+          <div class="expertise-box">
+            <h4>End-to-End ML & AI</h4>
+            <p>Complete ML/DL pipelines using Python, Pandas, NumPy, Scikit-learn, TensorFlow & PyTorch.</p>
+          </div>
+        </div>
+  
+        <div class="col-md-4 mb-4">
+          <div class="expertise-box">
+            <h4>Deep Learning & Transformers</h4>
+            <p>CNNs, LSTMs, GRUs, Transformers, and attention models for NLP & Computer Vision.</p>
+          </div>
+        </div>
+  
+        <div class="col-md-4 mb-4">
+          <div class="expertise-box">
+            <h4>Data Engineering</h4>
+            <p>Web scraping, APIs, SQL, Selenium, Scrapy, and large-scale data processing.</p>
+          </div>
+        </div>
+  
+        <div class="col-md-4 mb-4">
+          <div class="expertise-box">
+            <h4>Time-Series Forecasting</h4>
+            <p>ARIMA, SARIMA, Prophet, StatsForecast, and LSTM-based forecasting models.</p>
+          </div>
+        </div>
+  
+        <div class="col-md-4 mb-4">
+          <div class="expertise-box">
+            <h4>MLOps & Deployment</h4>
+            <p>Docker, FastAPI, Flask, CI/CD, MLflow, Git, monitoring & optimization.</p>
+          </div>
+        </div>
+  
+        <div class="col-md-4 mb-4">
+          <div class="expertise-box">
+            <h4>Cloud & Scalable AI</h4>
+            <p>AWS, GCP, Azure, SQL/NoSQL databases, distributed and cloud-native systems.</p>
+          </div>
+        </div>
+  
+        <div class="col-md-12">
+          <div class="expertise-box wide">
+            <h4>Consulting & AI Architecture</h4>
+            <p>
+              Translating business problems into AI-driven solutions across banking, insurance,
+              healthcare, telecom, forex, stocks, and crypto domains.
+            </p>
           </div>
         </div>
       </div>
     </div>
   </section>
+
 
   <!-- =========================================================
        CORE STRENGTHS
