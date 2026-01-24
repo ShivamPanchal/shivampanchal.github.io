@@ -227,11 +227,14 @@
         background: #0b0b0b;
       }
   
-      #about .dark-card {
+      #about .intro-card {
+        max-width: 900px;
+        margin: 0 auto 60px auto;
         background: #0e0e0e;
-        padding: 30px;
-        border-radius: 14px;
+        padding: 35px 40px;
+        border-radius: 16px;
         border-left: 4px solid #ffd700;
+        text-align: center;
         color: #ddd;
       }
   
@@ -248,6 +251,7 @@
         color: #ffd700;
         font-size: 18px;
         margin-bottom: 10px;
+        text-align: center;
       }
   
       #about .expertise-box p {
@@ -255,6 +259,7 @@
         font-size: 14px;
         line-height: 1.6;
         margin-bottom: 0;
+        text-align: center;
       }
   
       #about .expertise-box:hover {
@@ -266,38 +271,25 @@
         text-align: center;
       }
   
-      #about .about-photo {
-        border-radius: 18px;
-        box-shadow: 0 10px 40px rgba(0,0,0,0.6);
-      }
-  
       @media (max-width: 768px) {
-        #about .expertise-box {
-          padding: 20px;
+        #about .intro-card {
+          padding: 25px;
         }
       }
     </style>
   
     <div class="container">
-      <span class="section-subtitle">Profile</span>
-      <h2 class="section-title">About Me</h2>
+      <span class="section-subtitle text-center d-block">Profile</span>
+      <h2 class="section-title text-center mb-4">About Me</h2>
   
-      <!-- Intro Row -->
-      <div class="row align-items-center mb-5">
-        <div class="col-md-5">
-          <img src="images/shivam-dark-about.jpg" class="img-fluid about-photo" alt="Shivam Panchal">
-        </div>
-  
-        <div class="col-md-7">
-          <div class="dark-card">
-            <p>
-              Senior Data Scientist & Machine Learning Engineer with <strong>5+ years of hands-on experience</strong> and
-              <strong>7+ years of AI exposure</strong>, delivering production-grade AI solutions to
-              <strong>180+ global clients</strong>. I specialize in building scalable, cloud-ready AI systems
-              across finance, healthcare, telecom, and emerging technologies.
-            </p>
-          </div>
-        </div>
+      <!-- Centered Intro -->
+      <div class="intro-card">
+        <p>
+          Senior Data Scientist & Machine Learning Engineer with <strong>5+ years of hands-on experience</strong>
+          and <strong>7+ years of AI exposure</strong>, delivering <strong>production-grade AI solutions</strong>
+          to <strong>180+ global clients</strong>. I specialize in building <strong>scalable, cloud-ready AI systems</strong>
+          across finance, healthcare, telecom, and emerging technologies.
+        </p>
       </div>
   
       <!-- Expertise Boxes -->
@@ -356,6 +348,7 @@
       </div>
     </div>
   </section>
+
 
 
   <!-- =========================================================
